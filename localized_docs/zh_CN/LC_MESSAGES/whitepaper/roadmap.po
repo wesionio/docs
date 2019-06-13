@@ -1,0 +1,142 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2017-2019, Vision Network Project
+# This file is distributed under the same license as the vision.network package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+# 
+# Translators:
+# VISION official <michael@vision.network>, 2019
+# 
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: vision.network latest\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2019-04-27 11:28+0800\n"
+"PO-Revision-Date: 2019-01-19 08:47+0000\n"
+"Last-Translator: VISION official <michael@vision.network>, 2019\n"
+"Language-Team: Chinese (China) (https://www.transifex.com/voken/teams/95092/zh_CN/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: zh_CN\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+
+#: ../../whitepaper/roadmap.rst:2
+msgid "Roadmap"
+msgstr "路线图"
+
+#: ../../whitepaper/roadmap.rst:5
+msgid "2017.Q3"
+msgstr "2017.Q3"
+
+#: ../../whitepaper/roadmap.rst:5
+msgid "Project committee established"
+msgstr "项目组成立"
+
+#: ../../whitepaper/roadmap.rst:8
+msgid "2018.Q1"
+msgstr "2018.Q1"
+
+#: ../../whitepaper/roadmap.rst:8
+msgid "Feasibility and technical demonstration completed"
+msgstr "可行性论证和技术验证完成"
+
+#: ../../whitepaper/roadmap.rst:11
+msgid "2018.Q2"
+msgstr "2018.Q2"
+
+#: ../../whitepaper/roadmap.rst:11
+msgid "Vision Network whitepaper v1.0 released"
+msgstr "Vision Network 远景网络白皮书 v1.0 发布"
+
+#: ../../whitepaper/roadmap.rst:17
+msgid "2018.Q3"
+msgstr "2018.Q3"
+
+#: ../../whitepaper/roadmap.rst:14
+msgid ":ref:`airdrop_via_contract`"
+msgstr ":ref:`airdrop_via_contract`"
+
+#: ../../whitepaper/roadmap.rst:15
+msgid "Voken Pre-Sale (Canceled)"
+msgstr "Voken 预售（已取消）"
+
+#: ../../whitepaper/roadmap.rst:16
+msgid "Voken Airdrop by Invitation (Canceled)"
+msgstr "Voken 邀请空投（已取消）"
+
+#: ../../whitepaper/roadmap.rst:17
+msgid "150-500 official nodes launched"
+msgstr "150-500 个官网节启动"
+
+#: ../../whitepaper/roadmap.rst:20
+msgid "2018.Q4"
+msgstr "2018.Q4"
+
+#: ../../whitepaper/roadmap.rst:20
+msgid "vnVPN alpha"
+msgstr "vnVPN 内测版"
+
+#: ../../whitepaper/roadmap.rst:23
+msgid "2019.Q1"
+msgstr "2019.Q1"
+
+#: ../../whitepaper/roadmap.rst:23
+msgid "Voken Directed Airdrop (Delayed)"
+msgstr "Voken 直接空投（已推延）"
+
+#: ../../whitepaper/roadmap.rst:27
+msgid "2019.Q2"
+msgstr "2019.Q2"
+
+#: ../../whitepaper/roadmap.rst:26
+msgid ":ref:`voken_sale`"
+msgstr ":ref:`voken_sale`"
+
+#: ../../whitepaper/roadmap.rst:27
+msgid "vnP2PNET alpha"
+msgstr "vnP2PNET 点对点分布式网络内测"
+
+#: ../../whitepaper/roadmap.rst:30
+msgid "2019.Q3"
+msgstr "2019.Q3"
+
+#: ../../whitepaper/roadmap.rst:30
+msgid "vnSDK alpha"
+msgstr "vnSDK 内测"
+
+#: ../../whitepaper/roadmap.rst:35
+msgid "2019.Q4"
+msgstr "2019.Q4"
+
+#: ../../whitepaper/roadmap.rst:33
+msgid "vnCHAIN alpha"
+msgstr "vnCHAIN 主链内测"
+
+#: ../../whitepaper/roadmap.rst:34
+msgid "vnSDK beta"
+msgstr "vnSDK 公测"
+
+#: ../../whitepaper/roadmap.rst:35
+msgid "vnVPN beta"
+msgstr "vnVPN 公测"
+
+#: ../../whitepaper/roadmap.rst:39
+msgid "2020"
+msgstr "2020"
+
+#: ../../whitepaper/roadmap.rst:38
+msgid "Complete migration upgrade from ERC20 Voken to vnCHAIN"
+msgstr "完成 Voken ERC20 代币到 vnCHAIN 主链的映射"
+
+#: ../../whitepaper/roadmap.rst:41
+msgid "Related Reports:"
+msgstr ""
+
+#: ../../whitepaper/roadmap.rst:43
+msgid ":ref:`summary2019`"
+msgstr ""
+
+#: ../../whitepaper/roadmap.rst:44
+msgid ":ref:`summary2018`"
+msgstr ""
