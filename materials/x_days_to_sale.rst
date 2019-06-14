@@ -1,6 +1,6 @@
 .. _posters_x_days_to_sale:
 
-Posters for Voken Public-Sale
+Posters for wesion Public-Sale
 =============================
 
 

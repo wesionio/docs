@@ -1,13 +1,13 @@
-.. _voken_contract:
+.. _wesion_contract:
 
-Voken Main Contract
+wesion Main Contract
 ===================
 
-This is the **MAIN CONTRACT** of :ref:`voken`.
+This is the **MAIN CONTRACT** of :ref:`wesion`.
 
 |logo_etherscan_verified| |logo_github| |logo_verified|
 
-- ENS Domain is **voken100g.eth**
+- ENS Domain is **wesion100g.eth**
 - Contract address is **0x82070415FEe803f94Ce5617Be1878503e58F0a6a**
 - Deployed at `Tx Hash 0x9f173f8fc13a8efef7cb25b160c09958...`_
 - Block height `7635415`_
@@ -16,20 +16,20 @@ This is the **MAIN CONTRACT** of :ref:`voken`.
 
 View on Etherscan.io:
 
-- `Voken Tracker`_
+- `wesion Tracker`_
 - `Read contract on Etherscan.io`_
 - `Write contract on Etherscan.io`_
 
 Related links:
 
-- :ref:`voken_contract_upgraded`
+- :ref:`wesion_contract_upgraded`
 
 
 .. _Tx Hash 0x9f173f8fc13a8efef7cb25b160c09958...: https://etherscan.io/tx/0x9f173f8fc13a8efef7cb25b160c09958be03587b9b1af910bf8a9b3a48d68dc9
 .. _7635415: https://etherscan.io/tx/0x9f173f8fc13a8efef7cb25b160c09958be03587b9b1af910bf8a9b3a48d68dc9
-.. _GNU General Public License v3.0: https://github.com/voken100g/contracts/blob/master/LICENSE
-.. _View contract code on github repository: https://github.com/voken100g/contracts/blob/master/Voken.sol
-.. _Voken Tracker: https://etherscan.io/token/0x82070415fee803f94ce5617be1878503e58f0a6a
+.. _GNU General Public License v3.0: https://github.com/wesion100g/contracts/blob/master/LICENSE
+.. _View contract code on github repository: https://github.com/wesion100g/contracts/blob/master/wesion.sol
+.. _wesion Tracker: https://etherscan.io/token/0x82070415fee803f94ce5617be1878503e58f0a6a
 .. _Read contract on Etherscan.io: https://etherscan.io/token/0x82070415fee803f94ce5617be1878503e58f0a6a#readContract
 .. _Write contract on Etherscan.io: https://etherscan.io/token/0x82070415fee803f94ce5617be1878503e58f0a6a#writeContract
 
@@ -48,10 +48,10 @@ Related links:
 
 
 
-Understand Voken Contract
+Understand wesion Contract
 -------------------------
 
-If you want to learn more about voken contracts, this can help you.
+If you want to learn more about wesion contracts, this can help you.
 
 
 Meta
@@ -61,17 +61,17 @@ ____
 
    // solidity
 
-   string private _name = "Vision.Network 100G Token";
+   string private _name = "wesion.Network 100G Token";
    string private _symbol = "ABC";
    uint8 private _decimals = 6;                // 6 decimals
    uint256 private _cap = 35000000000000000;   // 35 billion
    uint256 private _totalSupply;
 
 Full Name
-   Vision.Network 100G Token
+   wesion.Network 100G Token
 
 Symbol
-   Voken
+   wesion
 
 Decimals
    6
@@ -80,7 +80,7 @@ Capped TotalSupply
    35 billion
 
 
-Voken-Sale Whitelist Registration trigger
+wesion-Sale Whitelist Registration trigger
 _________________________________________
 
 .. code-block:: text
@@ -90,7 +90,7 @@ _________________________________________
    function transfer(address to, uint256 value) public whenNotPaused returns (bool) {
        if (_allowWhitelistRegistration && value == _whitelistRegistrationValue
            && inWhitelist(to) && !inWhitelist(msg.sender) && isNotContract(msg.sender)) {
-           // Register whitelist for Voken-Sale
+           // Register whitelist for wesion-Sale
            _regWhitelist(msg.sender, to);
            return true;
        } else {
@@ -100,10 +100,10 @@ _________________________________________
        }
    }
 
-:ref:`voken_sale` whitelist registration trigger conditions:
+:ref:`wesion_sale` whitelist registration trigger conditions:
 
 - ``_allowWhitelistRegistration`` is ``true``, when registration is allowed.
-- ``value`` = ``_whitelistRegistrationValue``, that is 1,001 Vokens.
+- ``value`` = ``_whitelistRegistrationValue``, that is 1,001 wesions.
 - ``inWhitelist(to)``, receiver address is in whitelist.
 - ``!inWhitelist(msg.sender)``, sender address is not in whitelist.
 - ``isNotContract(msg.sender)``, sender address is not a contract,
@@ -113,30 +113,30 @@ _________________________________________
 Transfers other than those under this special conditions are considered **NORMAL TRANSFERS**.
 
 
-Voken-Sale Whitelist Registration and Referral Reward
+wesion-Sale Whitelist Registration and Referral Reward
 _____________________________________________________
 
 .. code-block:: text
 
    // solidity
 
-   uint256 private _whitelistRegistrationValue = 1001000000;   // 1001 Voken
+   uint256 private _whitelistRegistrationValue = 1001000000;   // 1001 wesion
    uint256[15] private _whitelistRefRewards = [                // 100% Reward
-       301000000,  // 301 Voken for Level.1
-       200000000,  // 200 Voken for Level.2
-       100000000,  // 100 Voken for Level.3
-       100000000,  // 100 Voken for Level.4
-       100000000,  // 100 Voken for Level.5
-       50000000,   //  50 Voken for Level.6
-       40000000,   //  40 Voken for Level.7
-       30000000,   //  30 Voken for Level.8
-       20000000,   //  20 Voken for Level.9
-       10000000,   //  10 Voken for Level.10
-       10000000,   //  10 Voken for Level.11
-       10000000,   //  10 Voken for Level.12
-       10000000,   //  10 Voken for Level.13
-       10000000,   //  10 Voken for Level.14
-       10000000    //  10 Voken for Level.15
+       301000000,  // 301 wesion for Level.1
+       200000000,  // 200 wesion for Level.2
+       100000000,  // 100 wesion for Level.3
+       100000000,  // 100 wesion for Level.4
+       100000000,  // 100 wesion for Level.5
+       50000000,   //  50 wesion for Level.6
+       40000000,   //  40 wesion for Level.7
+       30000000,   //  30 wesion for Level.8
+       20000000,   //  20 wesion for Level.9
+       10000000,   //  10 wesion for Level.10
+       10000000,   //  10 wesion for Level.11
+       10000000,   //  10 wesion for Level.12
+       10000000,   //  10 wesion for Level.13
+       10000000,   //  10 wesion for Level.14
+       10000000    //  10 wesion for Level.15
    ];
 
 .. code-block:: text
@@ -147,7 +147,7 @@ _____________________________________________________
        _refCount[refAccount] = _refCount[refAccount].add(1);
        _referrer[account] = refAccount;
 
-       emit VokenSaleWhitelistRegistered(account, refAccount);
+       emit wesionSaleWhitelistRegistered(account, refAccount);
 
        // Whitelist Registration Referral Reward
        _transfer(msg.sender, address(this), _whitelistRegistrationValue);
@@ -168,10 +168,10 @@ _____________________________________________________
        }
    }
 
-Transfer 1,001 Vokens to a whitelisted address
-   Will trigger Voken-Sale whitelist registration.
+Transfer 1,001 wesions to a whitelisted address
+   Will trigger wesion-Sale whitelist registration.
 
-100% of the 1,001 Vokens will be rewarded
+100% of the 1,001 wesions will be rewarded
    Up to 15 levels: 301 + 200 + 100 + ...
 
 
@@ -193,7 +193,7 @@ Check whether a ETH wallet address is whitelisted
    if the given address was whitelisted, it will returns ``true``.
 
 
-Check whether the Voken-Sale whitelist registration is in process
+Check whether the wesion-Sale whitelist registration is in process
 _________________________________________________________________
 
 .. code-block:: text
@@ -208,12 +208,12 @@ _________________________________________________________________
 
    // solidity
 
-   function disableVokenSaleWhitelistRegistration() external onlyOwner {
+   function disablewesionSaleWhitelistRegistration() external onlyOwner {
        _allowWhitelistRegistration = false;
-       emit VokenSaleWhitelistRegistrationDisabled();
+       emit wesionSaleWhitelistRegistrationDisabled();
    }
 
-Check whether the :ref:`voken_sale` whitelist registration is in process
+Check whether the :ref:`wesion_sale` whitelist registration is in process
    Call function ``allowWhitelistRegistration()``,
    if it returns ``true``, registration is allowed.
 
@@ -235,7 +235,7 @@ _____________________________________________
        _refCount[msg.sender] = 0;
        _referrer[account] = _referrer[msg.sender];
        _referrer[msg.sender] = address(0);
-       emit VokenSaleWhitelistTransferred(msg.sender, account);
+       emit wesionSaleWhitelistTransferred(msg.sender, account);
    }
 
 Whitelist qualification transfer is supported

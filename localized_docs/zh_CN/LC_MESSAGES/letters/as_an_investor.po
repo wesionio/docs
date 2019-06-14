@@ -1,20 +1,20 @@
 # SOME DESCRIPTIVE TITLE.
-# Copyright (C) 2017-2019, Vision Network Project
-# This file is distributed under the same license as the vision.network package.
+# Copyright (C) 2017-2019, wesion Network Project
+# This file is distributed under the same license as the wesion.network package.
 # FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
 # 
 # Translators:
-# VNET Michael <michael@vision.network>, 2019
+# VNET Michael <michael@wesion.network>, 2019
 # 
 #, fuzzy
 msgid ""
 msgstr ""
-"Project-Id-Version: vision.network latest\n"
+"Project-Id-Version: wesion.network latest\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2019-06-08 15:14+0800\n"
-"PO-Revision-Date: 2019-06-08 05:50+0000\n"
-"Last-Translator: VNET Michael <michael@vision.network>, 2019\n"
-"Language-Team: Chinese (China) (https://www.transifex.com/voken/teams/95092/zh_CN/)\n"
+"PO-Rewesion-Date: 2019-06-08 05:50+0000\n"
+"Last-Translator: VNET Michael <michael@wesion.network>, 2019\n"
+"Language-Team: Chinese (China) (https://www.transifex.com/wesion/teams/95092/zh_CN/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -41,8 +41,8 @@ msgstr "如果您没有数字货币投资经验，请阅读 :ref:`whitepaper` 2 
 msgid ""
 "You need to know clearly that the project is in the middle and early stage, "
 "and there is still a certain time from the product release. Please visit the"
-" :ref:`voken_doc` for the project progress and white-paper."
-msgstr "您需要清楚的知道项目处于中早期，距离产品交付使用还有一定时间，请访问 :ref:`voken_doc` 以获取项目进展和白皮书。"
+" :ref:`wesion_doc` for the project progress and white-paper."
+msgstr "您需要清楚的知道项目处于中早期，距离产品交付使用还有一定时间，请访问 :ref:`wesion_doc` 以获取项目进展和白皮书。"
 
 #: ../../letters/as_an_investor.rst:13
 msgid ""
@@ -61,12 +61,12 @@ msgstr "自己操作买卖流程，不找他人代买，并且确保钱包安全
 
 #: ../../letters/as_an_investor.rst:20
 msgid ""
-"We will promptly publish project information on :ref:`voken_website`, "
-":ref:`voken_doc`, :ref:`voken_twitter`, :ref:`voken_telegram`, etc. Do not "
+"We will promptly publish project information on :ref:`wesion_website`, "
+":ref:`wesion_doc`, :ref:`wesion_twitter`, :ref:`wesion_telegram`, etc. Do not "
 "believe in information disseminated by other non-official channels."
 msgstr ""
-"我们会适时发布信息在 :ref:`voken_website` 、 :ref:`voken_doc` 、 :ref:`voken_twitter` 、 "
-":ref:`voken_telegram` 等渠道。不要轻信其它非官方渠道散播的信息。"
+"我们会适时发布信息在 :ref:`wesion_website` 、 :ref:`wesion_doc` 、 :ref:`wesion_twitter` 、 "
+":ref:`wesion_telegram` 等渠道。不要轻信其它非官方渠道散播的信息。"
 
 #: ../../letters/as_an_investor.rst:23
 msgid ""
@@ -82,10 +82,10 @@ msgid ""
 "The only cooperation party for sales and community is the :ref:`v5`. The V5 "
 "team is responsible for the formation and service, including but not limited"
 " to the Chinese language community. It is responsible for the implementation"
-" of the :ref:`voken_sale`, finding qualified investors, forming communities "
+" of the :ref:`wesion_sale`, finding qualified investors, forming communities "
 "and managing and serving, and promoting consensus."
 msgstr ""
-"销售与市场唯一合作方为 :ref:`v5` ，V5 团队负责包括但不限于中文社区的组建与服务、:ref:`voken_sale` "
+"销售与市场唯一合作方为 :ref:`v5` ，V5 团队负责包括但不限于中文社区的组建与服务、:ref:`wesion_sale` "
 "的推进落实、寻找合格投资者、组建社区并管理服务、促进共识。"
 
 #: ../../letters/as_an_investor.rst:32
@@ -93,30 +93,30 @@ msgid ""
 "In order to allow more enthusiasts to participate in community organization "
 "and work, we have launched a whitelist system for those who want to "
 "participate in this program. We have set up a generous sales rewards in the "
-"public-sale plan. Read :ref:`voken_referral_program` for more information."
+"public-sale plan. Read :ref:`wesion_referral_program` for more information."
 msgstr ""
 "为了让更多的爱好者可以参与到社区组建与工作中来，我们启动了白名单系统。我们在销售计划中设置了丰厚的销售奖励，详细您可以参阅 "
-":ref:`voken_referral_program` 。"
+":ref:`wesion_referral_program` 。"
 
 #: ../../letters/as_an_investor.rst:36
 msgid ""
-"Voken will be traded on exchanges near the 10th season of the "
-":ref:`voken_sale`."
-msgstr "Voken 将在 :ref:`voken_sale` 的第 #10 个赛季附近登录交易所交易流通。"
+"wesion will be traded on exchanges near the 10th season of the "
+":ref:`wesion_sale`."
+msgstr "wesion 将在 :ref:`wesion_sale` 的第 #10 个赛季附近登录交易所交易流通。"
 
 #: ../../letters/as_an_investor.rst:37
 msgid ""
 "We welcome more people to join and build the community. If you have good "
 "suggestions or cooperation intentions, please send us an email: "
-"david@vision.network."
-msgstr "我们欢迎更多人加入和共建社区，如果您有好的建议或合作意向可以给我们发邮件，邮箱地址： david@vision.network 。"
+"david@wesion.network."
+msgstr "我们欢迎更多人加入和共建社区，如果您有好的建议或合作意向可以给我们发邮件，邮箱地址： david@wesion.network 。"
 
 #: ../../letters/as_an_investor.rst:40
 msgid ""
-"Thank you for your support of Voken, let us build a decentralized, free, "
+"Thank you for your support of wesion, let us build a decentralized, free, "
 "open and safe Internet."
-msgstr "感谢您对 Voken 的认可和支持，让我们一起共建一个去中心化的、自由的、开放且安全的国际互联网。"
+msgstr "感谢您对 wesion 的认可和支持，让我们一起共建一个去中心化的、自由的、开放且安全的国际互联网。"
 
 #: ../../letters/as_an_investor.rst:43
-msgid "by Vision.Network Project Team"
-msgstr "by Vision.Network 远景网络项目团队"
+msgid "by wesion.Network Project Team"
+msgstr "by wesion.Network 远景网络项目团队"

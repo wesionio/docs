@@ -3,9 +3,9 @@ import sphinx_rtd_theme
 
 # -- Project information -----------------------------------------------------
 
-project = 'vision.network'
-copyright = '2017-{}, Vision Network Project'.format(time.strftime("%Y"))
-author = 'Vision Network Project'
+project = 'wesion.network'
+copyright = '2017-{}, wesion Network Project'.format(time.strftime("%Y"))
+author = 'wesion Network Project'
 
 # The short X.Y version
 version = 'latest'
@@ -66,7 +66,7 @@ pygments_style = None
 # -- Options for HTMLHelp output ---------------------------------------------
 
 # Output file base name for HTML help builder.
-htmlhelp_basename = 'VisionNetworkDoc'
+htmlhelp_basename = 'wesionNetworkDoc'
 
 # -- Options for LaTeX output ------------------------------------------------
 
@@ -92,8 +92,8 @@ latex_elements = {
 # (source start file, target name, title,
 #  author, documentclass [howto, manual, or own class]).
 latex_documents = [
-    (master_doc, 'visionnetwork.tex', 'vision.network Documentation',
-     'Vision Network Project', 'manual'),
+    (master_doc, 'wesionnetwork.tex', 'wesion.network Documentation',
+     'wesion Network Project', 'manual'),
 ]
 
 # -- Options for manual page output ------------------------------------------
@@ -101,7 +101,7 @@ latex_documents = [
 # One entry per manual page. List of tuples
 # (source start file, name, description, authors, manual section).
 man_pages = [
-    (master_doc, 'visionnetwork', 'vision.network Documentation',
+    (master_doc, 'wesionnetwork', 'wesion.network Documentation',
      [author], 1)
 ]
 
@@ -111,8 +111,8 @@ man_pages = [
 # (source start file, target name, title, author,
 #  dir menu entry, description, category)
 texinfo_documents = [
-    (master_doc, 'visionnetwork', 'vision.network Documentation',
-     author, 'visionnetwork', 'Next Generation Distributed Internet Infrastructure',
+    (master_doc, 'wesionnetwork', 'wesion.network Documentation',
+     author, 'wesionnetwork', 'Next Generation Distributed Internet Infrastructure',
      'Miscellaneous'),
 ]
 

@@ -1,21 +1,21 @@
 # SOME DESCRIPTIVE TITLE.
-# Copyright (C) 2017-2019, Vision Network Project
-# This file is distributed under the same license as the vision.network package.
+# Copyright (C) 2017-2019, wesion Network Project
+# This file is distributed under the same license as the wesion.network package.
 # FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
 # 
 # Translators:
-# VNET Michael <michael@vision.network>, 2019
+# VNET Michael <michael@wesion.network>, 2019
 # Jill Henry <vnjillhenry@gmail.com>, 2019
 # 
 #, fuzzy
 msgid ""
 msgstr ""
-"Project-Id-Version: vision.network latest\n"
+"Project-Id-Version: wesion.network latest\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2019-04-23 15:53+0800\n"
-"PO-Revision-Date: 2019-01-19 08:47+0000\n"
+"PO-Rewesion-Date: 2019-01-19 08:47+0000\n"
 "Last-Translator: Jill Henry <vnjillhenry@gmail.com>, 2019\n"
-"Language-Team: Chinese (China) (https://www.transifex.com/voken/teams/95092/zh_CN/)\n"
+"Language-Team: Chinese (China) (https://www.transifex.com/wesion/teams/95092/zh_CN/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -37,8 +37,8 @@ msgstr "分布式端对端对等网络、遍布全球的用户节点。"
 #: ../../whitepaper/technical_path.rst:10
 msgid ""
 "vnP2PNET is the basis for the interconnection and interoperability of nodes "
-"in the entire the Vision Network."
-msgstr "vnP2PNET 是 Vision Network 全网节点互联互通、高效协作的基础。"
+"in the entire the wesion Network."
+msgstr "vnP2PNET 是 wesion Network 全网节点互联互通、高效协作的基础。"
 
 #: ../../whitepaper/technical_path.rst:12
 msgid ""
@@ -190,16 +190,16 @@ msgid ""
 "The vnSDK is the first end-user application built on a vnP2PNET "
 "(encapsulating the vnRPC at the same time). This development kit defines a "
 "set of standards and provides a convenient interface for the end user to "
-"take advantage of the vnCHAIN. At the same time, it gives VISION the "
+"take advantage of the vnCHAIN. At the same time, it gives wesion the "
 "potential to expand the scale in the future. Whether it is an official "
 "application or the participation of more partners or organizations in the "
-"application development of VISION in the future, the vnSDK will provide more"
+"application development of wesion in the future, the vnSDK will provide more"
 " convenience and will promote the entire ecosystem to be more open and "
 "colorful."
 msgstr ""
 "vnSDK 软件开发工具包是第一个建立在 vnP2PNET 网络上的终端用户应用程序（同时封装 vnRPC "
-"远程过程调用协议），这个开发包定义一系列标准并为终端用户提供方便的接口，可以利用 vnCHAIN 区块链的优势，同时赋予 VISION "
-"未来扩大业务规模的潜能。不论是官方应用，还是未来有更多伙伴或组织参与到 VISION 的应用开发中来，vnSDK "
+"远程过程调用协议），这个开发包定义一系列标准并为终端用户提供方便的接口，可以利用 vnCHAIN 区块链的优势，同时赋予 wesion "
+"未来扩大业务规模的潜能。不论是官方应用，还是未来有更多伙伴或组织参与到 wesion 的应用开发中来，vnSDK "
 "都将提供更多便利并会促进整个生态系统更开放、更丰富。"
 
 #: ../../whitepaper/technical_path.rst:113
@@ -365,7 +365,7 @@ msgid ""
 "be upgraded to a fully independent distributed DNS function of the service "
 "application"
 msgstr ""
-"初期的 vnDNS 实现方案将以可信区域的节点代理解析为主（ VISION "
+"初期的 vnDNS 实现方案将以可信区域的节点代理解析为主（ wesion "
 "网络内通信均经过动态加密隧道传输，数据可信，不会再被劫持拦截和污染），后期将发展升级成为一个具有完整独立 DNS 功能的服务应用。"
 
 #: ../../whitepaper/technical_path.rst:222
@@ -407,21 +407,21 @@ msgstr "由 vnDNS 衍生的 DDoS Attack Protection 阻断服务攻击防护服�
 #: ../../whitepaper/technical_path.rst:246
 msgid ""
 "The completely free distributed vnDNS resolution service can also be "
-"combined with reverse proxy technology, with the help of the huge VISION "
-"user base and the number of nodes, VISION could protect website from DDoS "
-"attacks. The website pays :ref:`voken`, and the participating nodes get "
-"Vokens as revenue."
+"combined with reverse proxy technology, with the help of the huge wesion "
+"user base and the number of nodes, wesion could protect website from DDoS "
+"attacks. The website pays :ref:`wesion`, and the participating nodes get "
+"wesions as revenue."
 msgstr ""
-"完全自由分布化的 vnDNS 解析服务还可以再结合反向代理技术，借助庞大的 VISION 用户基础和节点数量帮助需要受保护的网站有偿地防护 DDoS "
-"分布式阻断服务攻击 Distributed Denial-of-Service attack，受保护网站支付 :ref:`voken` "
-"，而参与服务的节点获得 Voken 。"
+"完全自由分布化的 vnDNS 解析服务还可以再结合反向代理技术，借助庞大的 wesion 用户基础和节点数量帮助需要受保护的网站有偿地防护 DDoS "
+"分布式阻断服务攻击 Distributed Denial-of-Service attack，受保护网站支付 :ref:`wesion` "
+"，而参与服务的节点获得 wesion 。"
 
 #: ../../whitepaper/technical_path.rst:252
 msgid ""
-"Vision Network users can not only contribute to network security protection,"
-" but also increase :ref:`voken` revenue."
+"wesion Network users can not only contribute to network security protection,"
+" but also increase :ref:`wesion` revenue."
 msgstr ""
-"运行 VISION 节点的用户，将再增加一个选择：不但有机会为网络安全保护贡献一份力量，同时又多了一个增加 :ref:`voken` 收益方式。"
+"运行 wesion 节点的用户，将再增加一个选择：不但有机会为网络安全保护贡献一份力量，同时又多了一个增加 :ref:`wesion` 收益方式。"
 
 #: ../../whitepaper/technical_path.rst:257
 msgid "DDoS:"

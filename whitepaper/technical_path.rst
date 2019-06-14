@@ -7,7 +7,7 @@ vnP2PNET and vnNODE
 
 Distributed peer-to-peer networks, all over the world.
 
-vnP2PNET is the basis for the interconnection and interoperability of nodes in the entire the Vision Network.
+vnP2PNET is the basis for the interconnection and interoperability of nodes in the entire the wesion Network.
 
 The vnNODE user nodes all over the world run on the basis of a series of protocols and rules,
 which constitute the vnP2PNET distributed peer-to-peer network.
@@ -101,9 +101,9 @@ The vnSDK is the first end-user application built on a vnP2PNET
 (encapsulating the vnRPC at the same time).
 This development kit defines a set of standards and provides a convenient interface
 for the end user to take advantage of the vnCHAIN.
-At the same time, it gives VISION the potential to expand the scale in the future.
+At the same time, it gives wesion the potential to expand the scale in the future.
 Whether it is an official application or the participation of more partners
-or organizations in the application development of VISION in the future,
+or organizations in the application development of wesion in the future,
 the vnSDK will provide more convenience and will promote the entire ecosystem
 to be more open and colorful.
 
@@ -245,12 +245,12 @@ DDoS defense which is derived from vnDNS
 
 The completely free distributed vnDNS resolution service can also be combined
 with reverse proxy technology,
-with the help of the huge VISION user base and the number of nodes,
-VISION could protect website from DDoS attacks. The website pays :ref:`voken`,
-and the participating nodes get Vokens as revenue.
+with the help of the huge wesion user base and the number of nodes,
+wesion could protect website from DDoS attacks. The website pays :ref:`wesion`,
+and the participating nodes get wesions as revenue.
 
-Vision Network users can not only contribute to network security protection,
-but also increase :ref:`voken` revenue.
+wesion Network users can not only contribute to network security protection,
+but also increase :ref:`wesion` revenue.
 
 DDoS:
    - `Denial-of-service attack - WikiPedia(English)`_

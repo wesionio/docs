@@ -9,7 +9,7 @@ What you need to know as an investor
    please read the :ref:`whitepaper` more than 2 times.
 #. You need to know clearly that the project is in the middle and early stage,
    and there is still a certain time from the product release.
-   Please visit the :ref:`voken_doc` for the project progress and white-paper.
+   Please visit the :ref:`wesion_doc` for the project progress and white-paper.
 #. Currently, our project team is anonymous (we have the right to choose this),
    such as Bitcoin, no one knows who Satoshi Nakamoto is.
    However, the contract code of the project is open-source verified already,
@@ -17,8 +17,8 @@ What you need to know as an investor
 #. Do the trading process yourself,
    don't look for someone else to do it,
    and make sure your wallet is safe, especially your private key.
-#. We will promptly publish project information on :ref:`voken_website`,
-   :ref:`voken_doc`, :ref:`voken_twitter`, :ref:`voken_telegram`, etc.
+#. We will promptly publish project information on :ref:`wesion_website`,
+   :ref:`wesion_doc`, :ref:`wesion_twitter`, :ref:`wesion_telegram`, etc.
    Do not believe in information disseminated by other non-official channels.
 #. Our project team will work as planned and make it available to the community.
    When necessary, our team will adjust some of the work plans
@@ -27,17 +27,17 @@ What you need to know as an investor
 #. The only cooperation party for sales and community is the :ref:`v5`.
    The V5 team is responsible for the formation and service,
    including but not limited to the Chinese language community.
-   It is responsible for the implementation of the :ref:`voken_sale`,
+   It is responsible for the implementation of the :ref:`wesion_sale`,
    finding qualified investors, forming communities and managing and serving, and promoting consensus.
 #. In order to allow more enthusiasts to participate in community organization and work,
    we have launched a whitelist system for those who want to participate in this program.
    We have set up a generous sales rewards in the public-sale plan.
-   Read :ref:`voken_referral_program` for more information.
-#. Voken will be traded on exchanges near the 10th season of the :ref:`voken_sale`.
+   Read :ref:`wesion_referral_program` for more information.
+#. wesion will be traded on exchanges near the 10th season of the :ref:`wesion_sale`.
 #. We welcome more people to join and build the community.
    If you have good suggestions or cooperation intentions,
-   please send us an email: david@vision.network.
-#. Thank you for your support of Voken, let us build a decentralized, free, open and safe Internet.
+   please send us an email: david@wesion.network.
+#. Thank you for your support of wesion, let us build a decentralized, free, open and safe Internet.
 
 
-by Vision.Network Project Team
+by wesion.Network Project Team

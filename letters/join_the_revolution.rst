@@ -13,9 +13,9 @@ Join us, join the revolution!
 Links first:
 
 - :ref:`philosophy`
-- :ref:`voken_pricing`
-- :ref:`voken_sale`
-- :ref:`voken_referral_program`
+- :ref:`wesion_pricing`
+- :ref:`wesion_sale`
+- :ref:`wesion_referral_program`
 
 Here is a gift for you:
 

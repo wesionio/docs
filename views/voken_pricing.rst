@@ -1,6 +1,6 @@
-.. _voken_pricing:
+.. _wesion_pricing:
 
-Voken's pricing logic and early opportunities
+wesion's pricing logic and early opportunities
 =============================================
 
 Just think about one question:
@@ -18,24 +18,24 @@ The vast majority of blockchain networks are just a set of accounting systems.
 Those crypto-currencies do not rely on any anchoring or credit to issue,
 and their price support comes from the holder's beliefs.
 
-But Voken is quite different.
+But wesion is quite different.
 
 
-What is Voken?
+What is wesion?
 ______________
 
-**Voken** is the unique token in the Vision Network ecosystem,
+**wesion** is the unique token in the wesion Network ecosystem,
 which uses Proof of Traffic consensus mechanism.
 It is the native asset on the vnCHAIN.
 
 
-1 Voken = 100GB client traffic flow
+1 wesion = 100GB client traffic flow
 ___________________________________
 
-**Voken** is the first crypto-currency with clear usage value.
+**wesion** is the first crypto-currency with clear usage value.
 
-In the underlying code, 1 Voken was defined as the client traffic of 100GBytes,
-that is: **1 Voken = 100GB client traffic flow**.
+In the underlying code, 1 wesion was defined as the client traffic of 100GBytes,
+that is: **1 wesion = 100GB client traffic flow**.
 
 
 
@@ -75,21 +75,21 @@ GCP Google Cloud Platform:
 
 
 
-Voken price during the Public-Sale: $0.001 - $0.601
+wesion price during the Public-Sale: $0.001 - $0.601
 ---------------------------------------------------
 
-:ref:`incremental_voken_sales_price`
+:ref:`incremental_wesion_sales_price`
 
-Starting at **1 Voken = $0.001**, until the price reaches **$0.601**.
+Starting at **1 wesion = $0.001**, until the price reaches **$0.601**.
 
-More details: :ref:`voken_sale`
+More details: :ref:`wesion_sale`
 
 
 
-3 basic principles of the Vision Network
+3 basic principles of the wesion Network
 ----------------------------------------
 
-There are 3 basic principles in the Vision Network ecosystem:
+There are 3 basic principles in the wesion Network ecosystem:
 
 #. Freedom, equality, openness, sharing, is the basic gene of the Internet,
    communication security and privacy protection are the basic rights of users.
@@ -105,22 +105,22 @@ the value of the entire project will be established, for sure, no doubt it.
 
 
 
-Most Voken will be handed over to users
+Most wesion will be handed over to users
 ---------------------------------------
 
-74.53% of the Vokens will ultimately be held by users. See: :ref:`distribution_plan`
+74.53% of the wesions will ultimately be held by users. See: :ref:`distribution_plan`
 
 This is a large ecosystem built by all participants.
 The more service nodes and more users, the stronger the network will be.
 
 Incremental sales prices will promote the market price of the entire system,
-during the :ref:`voken_sale`,
+during the :ref:`wesion_sale`,
 about **595.13 million USD** (50-100% of all the sales revenue)
 will be owned by the community promoters.
 
 See:
 
-- :ref:`voken_sale`
-- :ref:`voken_referral_program`
+- :ref:`wesion_sale`
+- :ref:`wesion_referral_program`
 
 Join us, join the revolution.

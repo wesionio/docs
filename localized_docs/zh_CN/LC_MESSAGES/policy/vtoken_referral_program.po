@@ -1,16 +1,16 @@
 # SOME DESCRIPTIVE TITLE.
-# Copyright (C) 2017-2019, Vision Network Project
-# This file is distributed under the same license as the vision.network package.
+# Copyright (C) 2017-2019, wesion Network Project
+# This file is distributed under the same license as the wesion.network package.
 # FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
 # 
 #, fuzzy
 msgid ""
 msgstr ""
-"Project-Id-Version: vision.network latest\n"
+"Project-Id-Version: wesion.network latest\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2019-04-11 18:06+0800\n"
-"PO-Revision-Date: 2019-04-11 14:19+0000\n"
-"Language-Team: Chinese (China) (https://www.transifex.com/voken/teams/95092/zh_CN/)\n"
+"PO-Rewesion-Date: 2019-04-11 14:19+0000\n"
+"Language-Team: Chinese (China) (https://www.transifex.com/wesion/teams/95092/zh_CN/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -18,24 +18,24 @@ msgstr ""
 "Plural-Forms: nplurals=1; plural=0;\n"
 
 #: ../../policy/vtoken_referral_program.rst:4
-msgid "Voken Referral Program"
+msgid "wesion Referral Program"
 msgstr ""
 
 #: ../../policy/vtoken_referral_program.rst:6
 msgid ""
-"By sharing your whitelisted ETH wallet address, you will earn ETH and Voken."
+"By sharing your whitelisted ETH wallet address, you will earn ETH and wesion."
 msgstr ""
 
 #: ../../policy/vtoken_referral_program.rst:9
 msgid ""
-"在您引荐注册白名单的 15 个推荐层级内， 您不但享有白名单注册奖励(15 levels, sum up to 1001 Voken)， 还可以赚取 "
-"Voken 公开销售过程中的分成奖励(15 levels, sums up to 35%)."
+"在您引荐注册白名单的 15 个推荐层级内， 您不但享有白名单注册奖励(15 levels, sum up to 1001 wesion)， 还可以赚取 "
+"wesion 公开销售过程中的分成奖励(15 levels, sums up to 35%)."
 msgstr ""
 
 #: ../../policy/vtoken_referral_program.rst:13
 msgid ""
-"Help improve the Vision Network ecosystem, strengthen the network, 传播共识, and"
-" **EARN ETH AND Voken**."
+"Help improve the wesion Network ecosystem, strengthen the network, 传播共识, and"
+" **EARN ETH AND wesion**."
 msgstr ""
 
 #: ../../policy/vtoken_referral_program.rst:16
@@ -48,26 +48,26 @@ msgstr ""
 
 #: ../../policy/vtoken_referral_program.rst:22
 msgid ""
-"Anyone who participate in the :ref:`voken_sale` by using a whitelisted ETH "
+"Anyone who participate in the :ref:`wesion_sale` by using a whitelisted ETH "
 "wallet address would enjoy a gift of **buy one and get one free**, and the "
 "non-white list wallet address does not enjoy any."
 msgstr ""
 
 #: ../../policy/vtoken_referral_program.rst:26
 msgid ""
-"Registering each whitelist wallet address cost **1,001 Voken**, and a "
+"Registering each whitelist wallet address cost **1,001 wesion**, and a "
 "referrer's wallet address is needed, which is already whitelisted."
 msgstr ""
 
 #: ../../policy/vtoken_referral_program.rst:29
 msgid ""
-"The referral relationship chain data will be saved to :ref:`voken_contract` "
+"The referral relationship chain data will be saved to :ref:`wesion_contract` "
 "on the Ethereum blockchain."
 msgstr ""
 
 #: ../../policy/vtoken_referral_program.rst:31
 msgid ""
-"The Voken tokens used to register the whitelist will be 100% rewarded, up to"
+"The wesion tokens used to register the whitelist will be 100% rewarded, up to"
 " 15 levels:"
 msgstr ""
 
@@ -77,7 +77,7 @@ msgid "Level"
 msgstr ""
 
 #: ../../policy/vtoken_referral_program.rst:35
-msgid "Amount of reward (1,001 Voken Total)"
+msgid "Amount of reward (1,001 wesion Total)"
 msgstr ""
 
 #: ../../policy/vtoken_referral_program.rst:37
@@ -86,7 +86,7 @@ msgid "Lv.1"
 msgstr ""
 
 #: ../../policy/vtoken_referral_program.rst:37
-msgid "301 Voken"
+msgid "301 wesion"
 msgstr ""
 
 #: ../../policy/vtoken_referral_program.rst:38
@@ -95,7 +95,7 @@ msgid "Lv.2"
 msgstr ""
 
 #: ../../policy/vtoken_referral_program.rst:38
-msgid "200 Voken"
+msgid "200 wesion"
 msgstr ""
 
 #: ../../policy/vtoken_referral_program.rst:39
@@ -106,7 +106,7 @@ msgstr ""
 #: ../../policy/vtoken_referral_program.rst:39
 #: ../../policy/vtoken_referral_program.rst:40
 #: ../../policy/vtoken_referral_program.rst:41
-msgid "100 Voken"
+msgid "100 wesion"
 msgstr ""
 
 #: ../../policy/vtoken_referral_program.rst:40
@@ -125,7 +125,7 @@ msgid "Lv.6"
 msgstr ""
 
 #: ../../policy/vtoken_referral_program.rst:42
-msgid "50 Voken"
+msgid "50 wesion"
 msgstr ""
 
 #: ../../policy/vtoken_referral_program.rst:43
@@ -134,7 +134,7 @@ msgid "Lv.7"
 msgstr ""
 
 #: ../../policy/vtoken_referral_program.rst:43
-msgid "40 Voken"
+msgid "40 wesion"
 msgstr ""
 
 #: ../../policy/vtoken_referral_program.rst:44
@@ -143,7 +143,7 @@ msgid "Lv.8"
 msgstr ""
 
 #: ../../policy/vtoken_referral_program.rst:44
-msgid "30 Voken"
+msgid "30 wesion"
 msgstr ""
 
 #: ../../policy/vtoken_referral_program.rst:45
@@ -152,7 +152,7 @@ msgid "Lv.9"
 msgstr ""
 
 #: ../../policy/vtoken_referral_program.rst:45
-msgid "20 Voken"
+msgid "20 wesion"
 msgstr ""
 
 #: ../../policy/vtoken_referral_program.rst:46
@@ -166,7 +166,7 @@ msgstr ""
 #: ../../policy/vtoken_referral_program.rst:49
 #: ../../policy/vtoken_referral_program.rst:50
 #: ../../policy/vtoken_referral_program.rst:51
-msgid "10 Voken"
+msgid "10 wesion"
 msgstr ""
 
 #: ../../policy/vtoken_referral_program.rst:47
@@ -204,7 +204,7 @@ msgid ""
 msgstr ""
 
 #: ../../policy/vtoken_referral_program.rst:59
-msgid "During :ref:`voken_sale`"
+msgid "During :ref:`wesion_sale`"
 msgstr ""
 
 #: ../../policy/vtoken_referral_program.rst:60
@@ -259,7 +259,7 @@ msgid "Season Top-Sales Reward: 15%-65%"
 msgstr ""
 
 #: ../../policy/vtoken_referral_program.rst:88
-msgid "During to :ref:`voken_sale`"
+msgid "During to :ref:`wesion_sale`"
 msgstr ""
 
 #: ../../policy/vtoken_referral_program.rst:89

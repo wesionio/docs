@@ -1,20 +1,20 @@
-.. _voken_referral_program:
+.. _wesion_referral_program:
 
-Voken Referral Program
+wesion Referral Program
 ======================
 
 By sharing your whitelisted ETH wallet address,
-you will earn ETH and Vokens.
+you will earn ETH and wesions.
 
 Within the 15 levels that you refer to the whitelist,
 you will not only receive whitelist registration rewards
-(sums up to 1,001 Vokens),
-but also earn a commission during the :ref:`voken_sale`
+(sums up to 1,001 wesions),
+but also earn a commission during the :ref:`wesion_sale`
 (sums up to 35% of sales revenue).
 
-Help improve the Vision Network ecosystem,
+Help improve the wesion Network ecosystem,
 strengthen the network, promote consensus,
-and **earn ETH and Vokens**.
+and **earn ETH and wesions**.
 
 Don't have an ETH wallet? Get one here: `MyEtherWallet`_, `imToken`_
 
@@ -25,47 +25,47 @@ Don't have an ETH wallet? Get one here: `MyEtherWallet`_, `imToken`_
 Whitelist Registration Referral Reward: 100%
 --------------------------------------------
 
-- Anyone who participate in the :ref:`voken_sale`
+- Anyone who participate in the :ref:`wesion_sale`
   by using a whitelisted ETH wallet address
   would enjoy a gift of **BUY ONE AND GET ONE MORE FREE**.
-- Registering each whitelist wallet address costs ``1,001 Vokens``,
+- Registering each whitelist wallet address costs ``1,001 wesions``,
   and a referrer's wallet address is needed
   which is already whitelisted.
 - The **whitelist referral relationship chain** data will be saved
-  to :ref:`voken_contract` on the Ethereum blockchain,
+  to :ref:`wesion_contract` on the Ethereum blockchain,
   which cannot be tampered.
-- ``1,001 Vokens`` will be **100% used as rewards**
-- Settled with Voken,
+- ``1,001 wesions`` will be **100% used as rewards**
+- Settled with wesion,
   will transfer to your wallet addresses automatically and immediately,
   process by contract.
 - Get one more level for each registration with your whitelisted address,
-  ``301 Vokens`` for direct referral reward (Lv.1, default),
+  ``301 wesions`` for direct referral reward (Lv.1, default),
   up to 15 levels (15+ referrals):
 
 =====  =====================================
-Level  Amount of reward (1,001 Vokens Total)
+Level  Amount of reward (1,001 wesions Total)
 =====  =====================================
-Lv.1   **301 Vokens**
-Lv.2   200 Vokens
-Lv.3   100 Vokens
-Lv.4   100 Vokens
-Lv.5   100 Vokens
-Lv.6   50 Vokens
-Lv.7   40 Vokens
-Lv.8   30 Vokens
-Lv.9   20 Vokens
-Lv.10  10 Vokens
-Lv.11  10 Vokens
-Lv.12  10 Vokens
-Lv.13  10 Vokens
-Lv.14  10 Vokens
-Lv.15  10 Vokens
+Lv.1   **301 wesions**
+Lv.2   200 wesions
+Lv.3   100 wesions
+Lv.4   100 wesions
+Lv.5   100 wesions
+Lv.6   50 wesions
+Lv.7   40 wesions
+Lv.8   30 wesions
+Lv.9   20 wesions
+Lv.10  10 wesions
+Lv.11  10 wesions
+Lv.12  10 wesions
+Lv.13  10 wesions
+Lv.14  10 wesions
+Lv.15  10 wesions
 =====  =====================================
 
-- When the contract automatically settles the 1001 Vokens reward,
+- When the contract automatically settles the 1001 wesions reward,
   some Lvs may be absent (due to insufficient referrals, or do not exist).
-  In this case, all unsuccessful rewards will be saved in the :ref:`voken_contract`,
-  and will be reward to Top-Sales 100 after the :ref:`voken_sale`.
+  In this case, all unsuccessful rewards will be saved in the :ref:`wesion_contract`,
+  and will be reward to Top-Sales 100 after the :ref:`wesion_sale`.
 
 
 .. _sales_referral_reward:
@@ -73,9 +73,9 @@ Lv.15  10 Vokens
 Sales Referral Reward: 35%
 --------------------------
 
-- During the :ref:`voken_sale`, ``35% of sales revenue`` will be used as rewards.
+- During the :ref:`wesion_sale`, ``35% of sales revenue`` will be used as rewards.
 - According to the **whitelist referral relationship chain** registered
-  in :ref:`voken_contract`.
+  in :ref:`wesion_contract`.
 - Settled with ETH,
   will transfer to your wallet addresses automatically and immediately,
   process by contract.
@@ -113,7 +113,7 @@ Lv.15  1%
 Season Top-Sales Reward: 15% - 65%
 ----------------------------------
 
-- During the :ref:`voken_sale` is divided into 60,000 stages,
+- During the :ref:`wesion_sale` is divided into 60,000 stages,
   each 600 stages is defined as a **SEASON**,
   that is also 1% of the entire progress.
 - With the sales progress,

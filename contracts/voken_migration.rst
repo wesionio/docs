@@ -1,6 +1,6 @@
-.. _voken_migration:
+.. _wesion_migration:
 
-Voken Migration Contract
+wesion Migration Contract
 ========================
 
 For ``VNET`` contract ``0x3F1...2F5`` historical balance data migrations,
@@ -17,8 +17,8 @@ snapshot at ``2019-04-15 00:00:00 UTC``.
 
 .. _Tx Hash 0xdaf79e473867052737ac4eeb145e85ed...: https://etherscan.io/tx/0xdaf79e473867052737ac4eeb145e85ed9ae2311c1f1535c21a9e657c05e2e47f
 .. _7569237: https://etherscan.io/tx/0xdaf79e473867052737ac4eeb145e85ed9ae2311c1f1535c21a9e657c05e2e47f
-.. _GNU General Public License v3.0: https://github.com/voken100g/contracts/blob/master/LICENSE
-.. _View contract code on github repository: https://github.com/voken100g/contracts/blob/master/VokenMigration.sol
+.. _GNU General Public License v3.0: https://github.com/wesion100g/contracts/blob/master/LICENSE
+.. _View contract code on github repository: https://github.com/wesion100g/contracts/blob/master/wesionMigration.sol
 .. _View contract on Etherscan.io: https://etherscan.io/address/0x667a09148b211d8ceabc1c31c03653c2e1a2634f
 
 .. |logo_github| image:: /_static/logos/github.svg

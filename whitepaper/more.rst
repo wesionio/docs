@@ -18,9 +18,9 @@ which makes the user’s true source IP untraceable.
 
 Obviously, the design of vnVPN has naturally satisfied the technical foundation
 for preventing tracking, anonymous browsing and communication.
-If VISION goes one step further and implements a multi-proxy application vnTOR,
+If wesion goes one step further and implements a multi-proxy application vnTOR,
 vnTOR has obvious advantages over the original Tor network.
-In other words, an ecosystem that uses Voken can motivate the participation of nodes
+In other words, an ecosystem that uses wesion can motivate the participation of nodes
 (more service nodes participate, not just use and claimants),
 and network quality and service quality are more stable and more efficient.
 
@@ -78,7 +78,7 @@ They are online when they use it,
 and they don't keep running when they are not used.
 As a result, the number of service nodes is in the state of shortage of demand for a long time.
 
-According to the actual development of the Vision Network project
+According to the actual development of the wesion Network project
 and opinions of the community,
 we may develop and implement the vnTOR multi-proxy function
 in the later period (the user selects the number of proxy layers
@@ -95,7 +95,7 @@ even you can use Hidden Wiki and the Torch search engine.
 
 Of course, this part of the work in the future is likely
 to involve more implementable developers in the design
-and application by rewarding Vokens.
+and application by rewarding wesions.
 
 
 The Hidden Wiki:
@@ -128,13 +128,13 @@ Dark net / Deep web:
 
 
 
-Future services based on Vision Network will also be settled using Voken
+Future services based on wesion Network will also be settled using wesion
 ------------------------------------------------------------------------
 
-Benefit from the stable value anchor design of Voken,
-which makes Voken closer to the true currency
+Benefit from the stable value anchor design of wesion,
+which makes wesion closer to the true currency
 (value scale is stable, convenient to hold and circulate).
-In a sense, not only the software and services officially developed by Vision Network.
+In a sense, not only the software and services officially developed by wesion Network.
 With the promotion of development support policies and support funds,
-more third-party software will also use Voken for service settlement.
+more third-party software will also use wesion for service settlement.
 

@@ -36,12 +36,12 @@ __________________
    :align: center
 
 
-Voken Airdrop
+wesion Airdrop
 _____________
 
-.. image:: /_static/posters/voken_airdrop.png
+.. image:: /_static/posters/wesion_airdrop.png
    :width: 100 %
-   :alt: voken_airdrop.png
+   :alt: wesion_airdrop.png
    :align: center
 
 

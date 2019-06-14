@@ -1,6 +1,6 @@
-.. _voken_reward_plan:
+.. _wesion_reward_plan:
 
-Voken Reward Plan
+wesion Reward Plan
 =================
 
 #TODO

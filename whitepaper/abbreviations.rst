@@ -1,8 +1,8 @@
 Abbreviations
 =============
 
-In the Vision Network system, include websites, documents, and various articles:
+In the wesion Network system, include websites, documents, and various articles:
 
-- Uppercase ``VISION`` abbreviation will be used to refer to the Vision Network, the entire project.
-- Typo ``Voken`` and ``Vokens`` abbreviation used to refer to :ref:`voken`
+- Uppercase ``wesion`` abbreviation will be used to refer to the wesion Network, the entire project.
+- Typo ``wesion`` and ``wesions`` abbreviation used to refer to :ref:`wesion`
 

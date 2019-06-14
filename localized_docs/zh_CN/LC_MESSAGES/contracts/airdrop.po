@@ -1,20 +1,20 @@
 # SOME DESCRIPTIVE TITLE.
-# Copyright (C) 2017-2019, Vision Network Project
-# This file is distributed under the same license as the vision.network package.
+# Copyright (C) 2017-2019, wesion Network Project
+# This file is distributed under the same license as the wesion.network package.
 # FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
 # 
 # Translators:
-# VNET Michael <michael@vision.network>, 2019
+# VNET Michael <michael@wesion.network>, 2019
 # 
 #, fuzzy
 msgid ""
 msgstr ""
-"Project-Id-Version: vision.network latest\n"
+"Project-Id-Version: wesion.network latest\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2019-05-06 11:37+0800\n"
-"PO-Revision-Date: 2019-01-17 05:19+0000\n"
-"Last-Translator: VNET Michael <michael@vision.network>, 2019\n"
-"Language-Team: Chinese (China) (https://www.transifex.com/voken/teams/95092/zh_CN/)\n"
+"PO-Rewesion-Date: 2019-01-17 05:19+0000\n"
+"Last-Translator: VNET Michael <michael@wesion.network>, 2019\n"
+"Language-Team: Chinese (China) (https://www.transifex.com/wesion/teams/95092/zh_CN/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -22,20 +22,20 @@ msgstr ""
 "Plural-Forms: nplurals=1; plural=0;\n"
 
 #: ../../contracts/airdrop.rst:4
-msgid "Voken Airdrop Contract"
-msgstr "Voken 空投合约"
+msgid "wesion Airdrop Contract"
+msgstr "wesion 空投合约"
 
 #: ../../contracts/airdrop.rst:6
-msgid "Hold :ref:`voken` for :ref:`airdrop_via_contract`."
-msgstr "为 :ref:`airdrop_via_contract` 持有 :ref:`voken` 。"
+msgid "Hold :ref:`wesion` for :ref:`airdrop_via_contract`."
+msgstr "为 :ref:`airdrop_via_contract` 持有 :ref:`wesion` 。"
 
 #: ../../contracts/airdrop.rst:9
 msgid "|logo_etherscan_verified| |logo_github| |logo_verified|"
 msgstr "|logo_etherscan_verified| |logo_github| |logo_verified|"
 
 #: ../../contracts/airdrop.rst:11
-msgid "ENS Domain is **airdrop.voken100g.eth**"
-msgstr "ENS 域名 **airdrop.voken100g.eth**"
+msgid "ENS Domain is **airdrop.wesion100g.eth**"
+msgstr "ENS 域名 **airdrop.wesion100g.eth**"
 
 #: ../../contracts/airdrop.rst:12
 msgid "Contract address is **0x4B14F1aaa878cCF70d58AEC682592dcD0Fe025BA**"

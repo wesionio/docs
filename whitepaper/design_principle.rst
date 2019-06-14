@@ -7,7 +7,7 @@ Keep gimmick innovation away
 Although the fresh definition is indeed easier to catch the eyeballs,
 but that is not what we want.
 Innovation-driven development is a complex system engineering.
-In the Vision Network system solutions and ecosystem,
+In the wesion Network system solutions and ecosystem,
 we advocate and encourage innovation that can solve practical problems,
 improve efficiency, reduce costs, and solve problems.
 
@@ -37,7 +37,7 @@ these are very precious experience and resources.
 With practical as the main purpose, technology should serve industry, concrete application in specific scenes
 -------------------------------------------------------------------------------------------------------------
 
-The Vision Network will prioritize mature and stable technology solutions,
+The wesion Network will prioritize mature and stable technology solutions,
 appropriate integration and innovation,
 provide services for practical and concrete applications,
 and cost-effectively solve specific problems in specific real-life scenes.
@@ -46,7 +46,7 @@ and cost-effectively solve specific problems in specific real-life scenes.
 Do not pursue the Token price increase
 --------------------------------------
 
-Unrestrained valuation expansion is not the original intention of :ref:`voken`.
+Unrestrained valuation expansion is not the original intention of :ref:`wesion`.
 From the point of view of ecological currency,
 the value scale is stable, the low cost is convenient to hold,
 the convenience of circulation and the convenience of payment have more practical significance.

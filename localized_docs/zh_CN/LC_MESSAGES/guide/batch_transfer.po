@@ -1,20 +1,20 @@
 # SOME DESCRIPTIVE TITLE.
-# Copyright (C) 2017-2019, Vision Network Project
-# This file is distributed under the same license as the vision.network package.
+# Copyright (C) 2017-2019, wesion Network Project
+# This file is distributed under the same license as the wesion.network package.
 # FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
 # 
 # Translators:
-# VISION official <michael@vision.network>, 2019
+# wesion official <michael@wesion.network>, 2019
 # 
 #, fuzzy
 msgid ""
 msgstr ""
-"Project-Id-Version: vision.network latest\n"
+"Project-Id-Version: wesion.network latest\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2019-04-29 05:48+0800\n"
-"PO-Revision-Date: 2019-04-28 13:59+0000\n"
-"Last-Translator: VISION official <michael@vision.network>, 2019\n"
-"Language-Team: Chinese (China) (https://www.transifex.com/voken/teams/95092/zh_CN/)\n"
+"PO-Rewesion-Date: 2019-04-28 13:59+0000\n"
+"Last-Translator: wesion official <michael@wesion.network>, 2019\n"
+"Language-Team: Chinese (China) (https://www.transifex.com/wesion/teams/95092/zh_CN/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -22,18 +22,18 @@ msgstr ""
 "Plural-Forms: nplurals=1; plural=0;\n"
 
 #: ../../guide/batch_transfer.rst:4
-msgid "How to batch transfer ETH and Voken?"
-msgstr "如何批量转账 ETH 和 Voken ？"
+msgid "How to batch transfer ETH and wesion?"
+msgstr "如何批量转账 ETH 和 wesion ？"
 
 #: ../../guide/batch_transfer.rst:6
 msgid ""
 "In order to meet the actual needs of community promoters, we developed "
 ":ref:`batch_transfer_contract`. It allows you to easily transfer batches of "
-"ETH and Voken in one transaction, will significantly reduce transfer costs "
+"ETH and wesion in one transaction, will significantly reduce transfer costs "
 "and operating time."
 msgstr ""
 "为了满足社区推广团队的实际需求，我们开发部署了 :ref:`batch_transfer_contract` 。它允许你容易的批量转账 ETH 和 "
-"Voken 在同一个交易内，能明显降低转账费用和操作时间。"
+"wesion 在同一个交易内，能明显降低转账费用和操作时间。"
 
 #: ../../guide/batch_transfer.rst:11
 msgid ""
@@ -48,9 +48,9 @@ msgstr "实例"
 #: ../../guide/batch_transfer.rst:17
 msgid ""
 "Use a demo ETH wallet ``0xAAAAfBd0C79865902828c34743AdE9c5a0373141`` to "
-"transfer ETH and Vokens to the 10 addresses in this table:"
+"transfer ETH and wesions to the 10 addresses in this table:"
 msgstr ""
-"使用一个演示钱包 ``0xAAAAfBd0C79865902828c34743AdE9c5a0373141`` 转账 ETH 和 Vokens "
+"使用一个演示钱包 ``0xAAAAfBd0C79865902828c34743AdE9c5a0373141`` 转账 ETH 和 wesions "
 "到下表中的 10 个地址："
 
 #: ../../guide/batch_transfer.rst:21
@@ -62,8 +62,8 @@ msgid "Amount of ETH"
 msgstr "ETH 数量"
 
 #: ../../guide/batch_transfer.rst:21
-msgid "Amount of Voken"
-msgstr "Voken 数量"
+msgid "Amount of wesion"
+msgstr "wesion 数量"
 
 #: ../../guide/batch_transfer.rst:23
 msgid "``0xe6A12f1E49c01e795c45D0B1097766E9BA6DA54a``"
@@ -82,8 +82,8 @@ msgstr "0.002 ETH"
 #: ../../guide/batch_transfer.rst:27 ../../guide/batch_transfer.rst:28
 #: ../../guide/batch_transfer.rst:29 ../../guide/batch_transfer.rst:30
 #: ../../guide/batch_transfer.rst:31 ../../guide/batch_transfer.rst:32
-msgid "1,001.000001 Vokens"
-msgstr "1,001.000001 Vokens"
+msgid "1,001.000001 wesions"
+msgstr "1,001.000001 wesions"
 
 #: ../../guide/batch_transfer.rst:24
 msgid "``0x3d061Bf0DdD7a5e5EFde54bE814D3d649B29E10E``"
@@ -165,33 +165,33 @@ msgstr "1. 批准授权"
 
 #: ../../guide/batch_transfer.rst:61
 msgid ""
-"Approve the :ref:`batch_transfer_contract` to transfer Vokens from your "
+"Approve the :ref:`batch_transfer_contract` to transfer wesions from your "
 "wallet."
-msgstr "准许授权 :ref:`batch_transfer_contract` 在您的钱包地址支出 Voken 。"
+msgstr "准许授权 :ref:`batch_transfer_contract` 在您的钱包地址支出 wesion 。"
 
 #: ../../guide/batch_transfer.rst:63
 msgid ""
 "Code rules: For security reasons, **only you** and **use your own wallet** "
-"to transfer ETH and Vokens is allowed."
-msgstr "代码规则：出于安全因原因， **只有您** 而且 **使用自己的钱包** 才可以调用合约转账 ETH 和 Voken。"
+"to transfer ETH and wesions is allowed."
+msgstr "代码规则：出于安全因原因， **只有您** 而且 **使用自己的钱包** 才可以调用合约转账 ETH 和 wesion。"
 
 #: ../../guide/batch_transfer.rst:66
 msgid ""
 "According to the table data in the example at the beginning of this page. "
-"There are `1,001.000001 x10 = 10,010.00001 Vokens` will be transferred to 10"
-" different addresses. That means you need to have a Voken balance greater "
+"There are `1,001.000001 x10 = 10,010.00001 wesions` will be transferred to 10"
+" different addresses. That means you need to have a wesion balance greater "
 "than this number in your wallet and then perform the approval."
 msgstr ""
-"根据示例表格中的数据，一共有 `1,001.000001 x10 = 10,010.00001 Vokens` 将批量转账至 10 "
-"个不同的地址。这意味着您的 Voken 余额需要大于这个数字，然后执行授权。"
+"根据示例表格中的数据，一共有 `1,001.000001 x10 = 10,010.00001 wesions` 将批量转账至 10 "
+"个不同的地址。这意味着您的 wesion 余额需要大于这个数字，然后执行授权。"
 
 #: ../../guide/batch_transfer.rst:76
 msgid ""
 "Use the Ethereum browser **etherscan.io - Write Contract**, interact with "
-":ref:`voken_contract` which address is "
+":ref:`wesion_contract` which address is "
 "**0x82070415FEe803f94Ce5617Be1878503e58F0a6a**."
 msgstr ""
-"使用以太坊浏览器 **etherscan.io - Write Contract** 与 :ref:`voken_contract` 交互，合约地址为："
+"使用以太坊浏览器 **etherscan.io - Write Contract** 与 :ref:`wesion_contract` 交互，合约地址为："
 " **0x82070415FEe803f94Ce5617Be1878503e58F0a6a** 。"
 
 #: ../../guide/batch_transfer.rst:79
@@ -214,12 +214,12 @@ msgstr "找到第一项功能 ``1. approve`` ，"
 msgid ""
 "Fill the :ref:`batch_transfer_contract` address "
 "``0xf5ed657f9441672788A4935F279956745edf461B`` into the `spender` blank, "
-"then enter the value of Voken (with 6 decimal digits), for example "
-"**10010.000010 Voken** is ``10010000010``."
+"then enter the value of wesion (with 6 decimal digits), for example "
+"**10010.000010 wesion** is ``10010000010``."
 msgstr ""
 "在 `spender` 栏填入 :ref:`batch_transfer_contract` 地址 "
-"``0xf5ed657f9441672788A4935F279956745edf461B`` 然后再输入 Voken 的数值（含 6 个小数位），本例中"
-" **10010.000010 Voken** 即是 ``10010000010`` 。"
+"``0xf5ed657f9441672788A4935F279956745edf461B`` 然后再输入 wesion 的数值（含 6 个小数位），本例中"
+" **10010.000010 wesion** 即是 ``10010000010`` 。"
 
 #: ../../guide/batch_transfer.rst:87
 msgid ""
@@ -237,10 +237,10 @@ msgstr ""
 #: ../../guide/batch_transfer.rst:92
 msgid ""
 "You have successfully approval the :ref:`batch_transfer_contract` for "
-"``10010.000010 Voken``, then you can call the contract to do your batch "
+"``10010.000010 wesion``, then you can call the contract to do your batch "
 "transfer."
 msgstr ""
-"您已经成功授权 :ref:`batch_transfer_contract` 允许调动 ``10010.000010 Voken`` "
+"您已经成功授权 :ref:`batch_transfer_contract` 允许调动 ``10010.000010 wesion`` "
 "，然后执行合约功能进行批量转账。"
 
 #: ../../guide/batch_transfer.rst:101
@@ -255,19 +255,19 @@ msgstr "2. 批量转账"
 
 #: ../../guide/batch_transfer.rst:109
 msgid ""
-"Batch transfer ETH and Vokens to 10 different addresses, **0.002 ETH** and "
-"**1,001.000001 Voken** for each."
+"Batch transfer ETH and wesions to 10 different addresses, **0.002 ETH** and "
+"**1,001.000001 wesion** for each."
 msgstr ""
-"批量转账 ETH 和 Voken 到 10 个不同的地址，每个地址 **0.002 ETH** 和 **1,001.000001 Voken** 。"
+"批量转账 ETH 和 wesion 到 10 个不同的地址，每个地址 **0.002 ETH** 和 **1,001.000001 wesion** 。"
 
 #: ../../guide/batch_transfer.rst:112
 msgid ""
 "Make sure you have a balance of ETH greater than `0.002 x10 =` **0.02 ETH**,"
-" and already perform a approval of **10010.000010 Vokens** in the previous "
+" and already perform a approval of **10010.000010 wesions** in the previous "
 "step."
 msgstr ""
 "请确认您的钱包内 ETH 余额大于 `0.002 x10 =` **0.02 ETH** 并且已经在前一步执行过 **10010.000010 "
-"Vokens** 的转账授权。"
+"wesions** 的转账授权。"
 
 #: ../../guide/batch_transfer.rst:115
 msgid ""
@@ -305,12 +305,12 @@ msgstr ""
 
 #: ../../guide/batch_transfer.rst:128
 msgid ""
-"The last blank ``vokenValue``, fill it with the number of vokens to be "
+"The last blank ``wesionValue``, fill it with the number of wesions to be "
 "transferred per address, the last six digits is decimal positions, so, "
-"**1001.000001 Voken** is ``1001000001`` here."
+"**1001.000001 wesion** is ``1001000001`` here."
 msgstr ""
-"最后一栏 ``vokenValue`` 统一填入单个地址转账的 Voken 的数量值，最后 6 位是小数位，所以 **1001.000001 "
-"Voken** 就填入 ``1001000001`` 。"
+"最后一栏 ``wesionValue`` 统一填入单个地址转账的 wesion 的数量值，最后 6 位是小数位，所以 **1001.000001 "
+"wesion** 就填入 ``1001000001`` 。"
 
 #: ../../guide/batch_transfer.rst:132
 msgid "Start to write into the contract, Confirm the transaction."
@@ -318,9 +318,9 @@ msgstr "写入合约，确认授权交易。"
 
 #: ../../guide/batch_transfer.rst:142
 msgid ""
-"There are 10 transactions of ETH, and 10 transactions of Voken, finished at "
+"There are 10 transactions of ETH, and 10 transactions of wesion, finished at "
 "one time. Both transactions fee and operating time, are greatly reduced."
-msgstr "一共有 10 笔 ETH 转账和 10 笔 Voken 转账一次性完成。不论是转账矿工费用还是操作时间都大幅减少。"
+msgstr "一共有 10 笔 ETH 转账和 10 笔 wesion 转账一次性完成。不论是转账矿工费用还是操作时间都大幅减少。"
 
 #: ../../guide/batch_transfer.rst:145
 msgid "That's all, 2 steps:"

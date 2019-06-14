@@ -1,6 +1,6 @@
 .. _invest_with:
 
-DO INVEST with your global vision (#TODO)
+DO INVEST with your global wesion (#TODO)
 =========================================
 
 TODO

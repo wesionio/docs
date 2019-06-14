@@ -12,13 +12,13 @@ Changelog
 `v0.5.4`_
    - Update: Allow local HTTP protocol.
 
-.. _v0.5.4: https://github.com/voken100g/vnVPN_windows/releases/tag/v0.5.4
+.. _v0.5.4: https://github.com/wesion100g/vnVPN_windows/releases/tag/v0.5.4
 
 
 `v0.5.3`_
    - Fixed a bug during loading server node list.
 
-.. _v0.5.3: https://github.com/voken100g/vnVPN_windows/releases/tag/v0.5.3
+.. _v0.5.3: https://github.com/wesion100g/vnVPN_windows/releases/tag/v0.5.3
 
 
 `v0.5.2`_
@@ -26,14 +26,14 @@ Changelog
    - System proxy
    - Bug fixes
 
-.. _v0.5.2: https://github.com/voken100g/vnVPN_windows/releases/tag/v0.5.2
+.. _v0.5.2: https://github.com/wesion100g/vnVPN_windows/releases/tag/v0.5.2
 
 
 `v0.5.1`_
    - Bug fixed: HTTP exception after an abnormal exit.
    - Pre-released ready.
 
-.. _v0.5.1: https://github.com/voken100g/vnVPN_windows/releases/tag/v0.5.1
+.. _v0.5.1: https://github.com/wesion100g/vnVPN_windows/releases/tag/v0.5.1
 
 
 v0.5.0

@@ -8,22 +8,22 @@ Roadmap
    - Feasibility and technical demonstration completed
 
 2018.Q2
-   - Vision Network whitepaper v1.0 released
+   - wesion Network whitepaper v1.0 released
 
 2018.Q3
    - :ref:`airdrop_via_contract`
-   - Voken Pre-Sale (Canceled)
-   - Voken Airdrop by Invitation (Canceled)
+   - wesion Pre-Sale (Canceled)
+   - wesion Airdrop by Invitation (Canceled)
    - 150-500 official nodes launched
 
 2018.Q4
    - vnVPN alpha
 
 2019.Q1
-   - Voken Directed Airdrop (Delayed)
+   - wesion Directed Airdrop (Delayed)
 
 2019.Q2
-   - :ref:`voken_sale`
+   - :ref:`wesion_sale`
    - vnP2PNET alpha
 
 2019.Q3
@@ -35,7 +35,7 @@ Roadmap
    - vnVPN beta
 
 2020
-   - Complete migration upgrade from ERC20 Voken to vnCHAIN
+   - Complete migration upgrade from ERC20 wesion to vnCHAIN
 
 
 Related Reports:

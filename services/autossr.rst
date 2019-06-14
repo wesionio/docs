@@ -3,7 +3,7 @@
 AutoSSR: FREE ShadowsocksR
 ==========================
 
-- **Github:** https://github.com/voken100g/AutoSSR
+- **Github:** https://github.com/wesion100g/AutoSSR
 
 .. NOTE::
 
@@ -22,19 +22,19 @@ ONLINE
    All online servers, available more than 1 hour.
 
    | ``https://git.io/autossr_online``
-   | ``https://raw.githubusercontent.com/voken100g/AutoSSR/master/online``
+   | ``https://raw.githubusercontent.com/wesion100g/AutoSSR/master/online``
 
 STABLE
    Available more than 6 hours, seems they are more stable.
 
    | ``https://git.io/autossr_stable``
-   | ``https://raw.githubusercontent.com/voken100g/AutoSSR/master/stable``
+   | ``https://raw.githubusercontent.com/wesion100g/AutoSSR/master/stable``
 
 RECENT
    Recent servers, active in 12 hours.
 
    | ``https://git.io/autossr_recent``
-   | ``https://raw.githubusercontent.com/voken100g/AutoSSR/master/recent``
+   | ``https://raw.githubusercontent.com/wesion100g/AutoSSR/master/recent``
 
 
 Supported clients

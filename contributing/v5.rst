@@ -9,7 +9,7 @@ The only cooperation party for sales and community.
 Scope of cooperation
 --------------------
 
-#. Promote the implementation of the :ref:`voken_sale` and find qualified investors.
+#. Promote the implementation of the :ref:`wesion_sale` and find qualified investors.
 #. Build a community, serve the community, build the culture.
 #. Culture promotion and value guidance.
 #. Maintain and manage the community and promote public opinion that is conducive to the whole ecology.
@@ -61,7 +61,7 @@ Email: v5club@126.com
 
 ------
 
-by Vision.Network Project Team
+by wesion.Network Project Team
 
 
 

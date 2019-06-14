@@ -4,7 +4,7 @@ Summary 2018
 ============
 
 Affected by the crypto-currency market environment which is everybody knows,
-and we are not eager to start :ref:`voken_sale`,
+and we are not eager to start :ref:`wesion_sale`,
 our team canceled or delayed most market moves.
 
 We had spent more time on the underlying technology development.
@@ -15,13 +15,13 @@ Here is a brief list what we had done in the year of 2018
    - Feasibility and technical demonstration completed
 
 2018 Q2
-   - Vision Network Whitepaper v1.0.0 - v1.0.4
-   - :ref:`voken_contract` on Ethereum blockchain platform (upgraded in Apr 2019)
+   - wesion Network Whitepaper v1.0.0 - v1.0.4
+   - :ref:`wesion_contract` on Ethereum blockchain platform (upgraded in Apr 2019)
    - `Official website`_ and keep it updating later
 
 2018 Q3
-   - Delayed `Voken Pre-Sale`
-   - Canceled `Voken Airdrop by invitation`
+   - Delayed `wesion Pre-Sale`
+   - Canceled `wesion Airdrop by invitation`
    - Launched ``257 nodes(servers)`` for ``vnP2PNET`` test net
    - ``vnVPN Alpha server-side v0.1.0 on Linux`` released
    - ``vnVPN Alpha server-side v0.1.0 on Windows`` released
@@ -54,9 +54,9 @@ Here is a brief list what we had done in the year of 2018
 .. [#UDP] `UDP, User Datagram Protocol on WikiPedia`_
 .. [#ShadowsocksR] `ShadowsocksR on GitHub`_
 
-.. _Official website: https://vision.network/
+.. _Official website: https://wesion.network/
 
-.. _Voken Contract on etherscan.io: https://etherscan.io/token/0x3f13a8039d33fbf19467183e3b4249e7a4c212f5
+.. _wesion Contract on etherscan.io: https://etherscan.io/token/0x3f13a8039d33fbf19467183e3b4249e7a4c212f5
 .. _Shadowsocks on GitHub: https://github.com/shadowsocks/go-shadowsocks2
 .. _RSA encrypted on WikiPedia: https://en.wikipedia.org/wiki/RSA_(cryptosystem)
 .. _P2P, Peer-to-peer on WikiPedia: https://en.wikipedia.org/wiki/Peer-to-peer

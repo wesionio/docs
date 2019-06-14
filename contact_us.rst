@@ -6,58 +6,58 @@ Contact us
 
 |logo_earth|
 
-.. _voken_website:
+.. _wesion_website:
 
 Official Website
 ----------------
 
-- https://vision.network/
-- https://vision.network/zh-cn (Simplified Chinese)
+- https://wesion.network/
+- https://wesion.network/zh-cn (Simplified Chinese)
 
 
 |logo_github|
 
 GitHub
 ------
-https://github.com/voken100g
+https://github.com/wesion100g
 
 
 
 |logo_twitter|
 
-.. _voken_twitter:
+.. _wesion_twitter:
 
 Twitter
 -------
 
-https://twitter.com/voken100g
+https://twitter.com/wesion100g
 
 
 
 |logo_telegram|
 
-.. _voken_telegram:
+.. _wesion_telegram:
 
 Telegram
 --------
 
 Group
-   - https://t.me/voken100g
-   - https://t.me/vokenCN (Chinese Group)
+   - https://t.me/wesion100g
+   - https://t.me/wesionCN (Chinese Group)
 
 News Channel
-   - https://t.me/vokenNews
+   - https://t.me/wesionNews
 
 
 |logo_doc|
 
-.. _voken_doc:
+.. _wesion_doc:
 
 Documentations
 --------------
 
-- https://voken.io/
-- https://voken.io/zh_CN/latest/ (Simplified Chinese)
+- https://wesion.io/
+- https://wesion.io/zh_CN/latest/ (Simplified Chinese)
 
 
 .. |logo_earth| image:: /_static/logos/earth.svg

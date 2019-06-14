@@ -1,4 +1,4 @@
-Welcome to vision.network!
+Welcome to wesion.network!
 ==========================
 
 .. image:: /_static/logo.svg
@@ -13,53 +13,53 @@ Welcome to vision.network!
    |logo_earth|
 
    Official Website
-      - https://vision.network/
-      - https://vision.network/zh-cn (Simplified Chinese)
+      - https://wesion.network/
+      - https://wesion.network/zh-cn (Simplified Chinese)
 
 
    |logo_github|
 
    GitHub
-      https://github.com/voken100g
+      https://github.com/wesion100g
 
 
    |logo_twitter|
 
    Twitter
-      https://twitter.com/voken100g
+      https://twitter.com/wesion100g
 
 
    |logo_telegram|
 
    Telegram Group
-      - https://t.me/voken100g
-      - https://t.me/vokenCN (Chinese Group)
+      - https://t.me/wesion100g
+      - https://t.me/wesionCN (Chinese Group)
 
    Telegram News Channel
-      - https://t.me/vokenNews
+      - https://t.me/wesionNews
 
 
    |logo_doc|
 
    Documents
-      - https://voken.io/
-      - https://voken.io/zh_CN/latest/ (Simplified Chinese)
+      - https://wesion.io/
+      - https://wesion.io/zh_CN/latest/ (Simplified Chinese)
 
 
 :ref:`philosophy`
 
-The Vision Network is a set of infrastructure for building a decentralized Internet.
+The wesion Network is a set of infrastructure for building a decentralized Internet.
 It is a distributed extensible virtual network,
 based on the physical network layer and the ISP network layer.
 
-Vision Network uses blockchain technology, distributed networks and asymmetric encryption,
+wesion Network uses blockchain technology, distributed networks and asymmetric encryption,
 provides distributed services such as Proxy/VPN,
 multi-layer anonymous network, IM, DNS, even CDN and DDoS defense, etc.
 
-The :ref:`voken` with stable value scale will be used in
+The :ref:`wesion` with stable value scale will be used in
 the entire ecology and produce an incentive effect.
 Everyone can participate in distributed network construction.
-We believe the Vision Network will make the future Internet
+We believe the wesion Network will make the future Internet
 more open, more equal, more stable, more efficient, safer and freer.
 
 
@@ -70,7 +70,7 @@ more open, more equal, more stable, more efficient, safer and freer.
    :caption: News
 
    reports/season_top_sales
-   news/voken_contract_upgraded
+   news/wesion_contract_upgraded
    reports/summary2019
    reports/summary2018
 
@@ -80,11 +80,11 @@ more open, more equal, more stable, more efficient, safer and freer.
 
 .. toctree::
    :maxdepth: 1
-   :caption: Voken
+   :caption: wesion
 
    letters/as_an_investor
    token/sale
-   policy/voken_referral_program
+   policy/wesion_referral_program
    token/airdrop_via_contract
    token/airdrop_to_eth_holders
 
@@ -120,9 +120,9 @@ more open, more equal, more stable, more efficient, safer and freer.
    :maxdepth: 1
    :caption: Guides
 
-   guide/voken_sale
-   guide/register_voken_sale_whitelist
-   guide/read_voken_sale_contract
+   guide/wesion_sale
+   guide/register_wesion_sale_whitelist
+   guide/read_wesion_sale_contract
    guide/batch_transfer
    guide/imtoken
    guide/metamask
@@ -142,7 +142,7 @@ more open, more equal, more stable, more efficient, safer and freer.
    :maxdepth: 1
    :caption: References and views
 
-   views/voken_pricing
+   views/wesion_pricing
    views/internet_in_china
    views/basic_principles
 
@@ -158,9 +158,9 @@ more open, more equal, more stable, more efficient, safer and freer.
    :maxdepth: 1
    :caption: Contracts on Ethereum
 
-   contracts/voken
+   contracts/wesion
 
-   contracts/voken_sale
+   contracts/wesion_sale
    contracts/airdrop
    contracts/airdrop_to_eth_holders
    contracts/business_fund
@@ -168,8 +168,8 @@ more open, more equal, more stable, more efficient, safer and freer.
    contracts/service_nodes_fund
    contracts/early_investors_fund
    contracts/team_fund
-   contracts/voken_migration
-   contracts/get_1002voken
+   contracts/wesion_migration
+   contracts/get_1002wesion
    contracts/batch_transfer
 
 

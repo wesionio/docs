@@ -1,20 +1,20 @@
 # SOME DESCRIPTIVE TITLE.
-# Copyright (C) 2017-2019, Vision Network Project
-# This file is distributed under the same license as the vision.network package.
+# Copyright (C) 2017-2019, wesion Network Project
+# This file is distributed under the same license as the wesion.network package.
 # FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
 # 
 # Translators:
-# VNET Michael <michael@vision.network>, 2019
+# VNET Michael <michael@wesion.network>, 2019
 # 
 #, fuzzy
 msgid ""
 msgstr ""
-"Project-Id-Version: vision.network latest\n"
+"Project-Id-Version: wesion.network latest\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2019-06-08 16:25+0800\n"
-"PO-Revision-Date: 2019-06-08 08:10+0000\n"
-"Last-Translator: VNET Michael <michael@vision.network>, 2019\n"
-"Language-Team: Chinese (China) (https://www.transifex.com/voken/teams/95092/zh_CN/)\n"
+"PO-Rewesion-Date: 2019-06-08 08:10+0000\n"
+"Last-Translator: VNET Michael <michael@wesion.network>, 2019\n"
+"Language-Team: Chinese (China) (https://www.transifex.com/wesion/teams/95092/zh_CN/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -27,5 +27,5 @@ msgstr "交易所白名单计划"
 
 #: ../../contributing/ex_plan.rst:6
 msgid ""
-"Will be released before the 10th season of the :ref:`voken_sale` finished."
-msgstr "Voken 将在 :ref:`voken_sale` 的第 #10 个赛季完成前前公布。"
+"Will be released before the 10th season of the :ref:`wesion_sale` finished."
+msgstr "wesion 将在 :ref:`wesion_sale` 的第 #10 个赛季完成前前公布。"

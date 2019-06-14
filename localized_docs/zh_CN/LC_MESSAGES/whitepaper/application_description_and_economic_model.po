@@ -1,20 +1,20 @@
 # SOME DESCRIPTIVE TITLE.
-# Copyright (C) 2017-2019, Vision Network Project
-# This file is distributed under the same license as the vision.network package.
+# Copyright (C) 2017-2019, wesion Network Project
+# This file is distributed under the same license as the wesion.network package.
 # FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
 # 
 # Translators:
-# VISION official <michael@vision.network>, 2019
+# wesion official <michael@wesion.network>, 2019
 # 
 #, fuzzy
 msgid ""
 msgstr ""
-"Project-Id-Version: vision.network latest\n"
+"Project-Id-Version: wesion.network latest\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2019-04-27 17:44+0800\n"
-"PO-Revision-Date: 2019-01-11 05:18+0000\n"
-"Last-Translator: VISION official <michael@vision.network>, 2019\n"
-"Language-Team: Chinese (China) (https://www.transifex.com/voken/teams/95092/zh_CN/)\n"
+"PO-Rewesion-Date: 2019-01-11 05:18+0000\n"
+"Last-Translator: wesion official <michael@wesion.network>, 2019\n"
+"Language-Team: Chinese (China) (https://www.transifex.com/wesion/teams/95092/zh_CN/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -33,40 +33,40 @@ msgstr "分布式的智能虚拟网络"
 msgid ""
 "The existing infrastructures in the world is physically connected. While "
 "ISPs (Internet Service Providers) provide users with network access "
-"services, they can centralize blockades and block your access. The Vision "
+"services, they can centralize blockades and block your access. The wesion "
 "Network uses distributed peer-to-peer network technology to build a "
 "distributed, intelligent virtual network on the physical layer and ISP "
 "network layer through a large number of nodes, which can surely connect the "
 "whole world."
 msgstr ""
-"全球现有的物理层网络已经互联互通，而 ISP （网络服务提供商）为用户提供网络接入服务的同时也可以中心化地实施封锁、阻断用户的一些访问。Vision "
+"全球现有的物理层网络已经互联互通，而 ISP （网络服务提供商）为用户提供网络接入服务的同时也可以中心化地实施封锁、阻断用户的一些访问。wesion "
 "Network 可以通过无限的用户节点，使用 P2PNET 分布式端对端网络技术在物理层网络和 ISP "
 "网络层之上，构建一层分布式的智能虚拟网络，连通全世界。"
 
 #: ../../whitepaper/application_description_and_economic_model.rst:21
 msgid ""
-"The Vision Network provides distributed services such as VPN, CDN, DNS, and "
-"DDoS defense. The :ref:`voken` with stable value scale will be used in the "
+"The wesion Network provides distributed services such as VPN, CDN, DNS, and "
+"DDoS defense. The :ref:`wesion` with stable value scale will be used in the "
 "ecology and produce an incentive effect. Everyone can participate in "
-"distributed network construction. We believe the Vision Network, a "
+"distributed network construction. We believe the wesion Network, a "
 "distributed Internet infrastructure will make the Internet more open, more "
 "equal, more stable, more efficient, safer and freer."
 msgstr ""
-"Vision Network 提供分布式的 VPN、CDN、DNS、DDoS 防御等一系列分布式服务，基于区块链技术、使用价值尺度稳定的 "
-":ref:`voken` "
+"wesion Network 提供分布式的 VPN、CDN、DNS、DDoS 防御等一系列分布式服务，基于区块链技术、使用价值尺度稳定的 "
+":ref:`wesion` "
 "作为生态“货币”激励，是由全球无限节点参与构建的、具有成长性的分布式互联网基础设施，使互联网更开放、更平等、更稳定、更高效、更安全、更自由。"
 
 #: ../../whitepaper/application_description_and_economic_model.rst:28
 msgid ""
-"**1 Voken = 100 GB client network traffic (price at IDC is $8.0 - 8.5)**"
-msgstr "**1 Voken = 100 GB 客户端流量（ IDC 资源价格 $8.0 - 8.5 美元）**"
+"**1 wesion = 100 GB client network traffic (price at IDC is $8.0 - 8.5)**"
+msgstr "**1 wesion = 100 GB 客户端流量（ IDC 资源价格 $8.0 - 8.5 美元）**"
 
 #: ../../whitepaper/application_description_and_economic_model.rst:30
 msgid ""
 "The user running the service node makes use of idle network resources to "
-"earn Vokens, and the user or organization that needs the service uses Vokens"
+"earn wesions, and the user or organization that needs the service uses wesions"
 " exchange to settle through the vnCHAIN blockchain."
-msgstr "运行服务节点的用户利用闲置的网络资源赚取 Voken ，需求服务的用户或组织则使用 Voken 兑换，通过 vnCHAIN 区块链结算。"
+msgstr "运行服务节点的用户利用闲置的网络资源赚取 wesion ，需求服务的用户或组织则使用 wesion 兑换，通过 vnCHAIN 区块链结算。"
 
 #: ../../whitepaper/application_description_and_economic_model.rst:37
 msgid "Turn user's idle network resources into cash"
@@ -83,16 +83,16 @@ msgstr ""
 
 #: ../../whitepaper/application_description_and_economic_model.rst:43
 msgid ""
-"With the help of Vision Network, users participating in the ecology can "
-"easily run VISION node programs on computers, routers, TV boxes, and even "
+"With the help of wesion Network, users participating in the ecology can "
+"easily run wesion node programs on computers, routers, TV boxes, and even "
 "mobile devices, even if they do not have the professional technical ability "
 "to share idle network resources. The longer the time is online, the more "
-"Vokens can be obtained, which can be used to exchange the services you need "
+"wesions can be obtained, which can be used to exchange the services you need "
 "in the ecology, or sell them on the exchange to turn your idle network "
 "resources into cash."
 msgstr ""
-"在 Vision Network 的帮助下，参与生态的用户即使不具备专业的技术能力，也可以方便地在电脑、路由器、电视盒、甚至是移动设备上运行 "
-"VISION 节点程序，分享闲置的网络资源，在线时间越长，获得的 Vokens "
+"在 wesion Network 的帮助下，参与生态的用户即使不具备专业的技术能力，也可以方便地在电脑、路由器、电视盒、甚至是移动设备上运行 "
+"wesion 节点程序，分享闲置的网络资源，在线时间越长，获得的 wesions "
 "越多，可以用来兑换生态中自己所需的服务，或是在交易所卖出，实现将闲置的网络资源变现。"
 
 #: ../../whitepaper/application_description_and_economic_model.rst:54
@@ -220,15 +220,15 @@ msgid ""
 "economy models such as Ube. The technical advantage is that there is no need"
 " to set up a centralized intermediary organization, vnVPN create a "
 "decentralized platform based on blockchain and code rule. The contract is "
-"settled automatically, the node inside the wall pays the :ref:`voken` as the"
+"settled automatically, the node inside the wall pays the :ref:`wesion` as the"
 " demand side, and the outside node uses the idle bandwidth as the service "
 "party to provide the encrypted trafficproxy service and automatically accept"
-" the :ref:`voken` settlement, and use the PoT consensus based on the "
+" the :ref:`wesion` settlement, and use the PoT consensus based on the "
 "traffic. Online service, blockchain settlement."
 msgstr ""
 "撮合供需的商业逻辑与 Uber 和滴滴出行等共享经济模式相似，技术上的优势是并不需要设置一个中心化的中介机构，vnVPN "
-"打造一个基于区块链的去中心化平台，代码法制、合约自动结算，墙内节点作为需求方支付 :ref:`voken` "
-"使用翻墙服务，墙外节点作为服务方使用闲置带宽提供加密的流量代理服务并自动接受 :ref:`voken` 结算，使用基于流量的 PoT "
+"打造一个基于区块链的去中心化平台，代码法制、合约自动结算，墙内节点作为需求方支付 :ref:`wesion` "
+"使用翻墙服务，墙外节点作为服务方使用闲置带宽提供加密的流量代理服务并自动接受 :ref:`wesion` 结算，使用基于流量的 PoT "
 "共识，在线服务，链上结算。"
 
 #: ../../whitepaper/application_description_and_economic_model.rst:124
@@ -515,7 +515,7 @@ msgid ""
 "The vnCDN combines blockchain technology, distributed network and "
 "traditional CDN technology to share a huge user base with vnVPN, truly "
 "global infinite nodes, and more users can easily access computers, routers, "
-"TV boxes, mobile devices, or even just a RaspberryPI device running VISION "
+"TV boxes, mobile devices, or even just a RaspberryPI device running wesion "
 "node programs, taking advantage of the unlimited traffic and cost advantages"
 " of home bandwidth, sharing their idle bandwidth and storage, generating "
 "revenue, making Internet acceleration nodes ubiquitous. It also provides "
@@ -523,7 +523,7 @@ msgid ""
 "distributed CDN services for website owners who need to accelerate."
 msgstr ""
 "vnCDN 将区块链技术、分布式网络与传统的 CDN 技术相融合，与 vnVPN "
-"共享庞大的用户基础、真正的全球化无限节点，更多的用户可以方便地在电脑、路由器、电视盒、移动设备、甚至仅仅几十美金树莓派上运行 VISION "
+"共享庞大的用户基础、真正的全球化无限节点，更多的用户可以方便地在电脑、路由器、电视盒、移动设备、甚至仅仅几十美金树莓派上运行 wesion "
 "节点程序，利用家庭带宽不限流量和成本优势，分享自己的闲置带宽与存储并获得收益，使互联网加速节点无处不在，同时也让需要加速的网站主获得价格更优、速度更快、节点更多、计量透明的分布式CDN服务。"
 
 #: ../../whitepaper/application_description_and_economic_model.rst:229
@@ -720,47 +720,47 @@ msgstr "Proof of Traffic 流量共识 PoT"
 msgid ""
 "Compared with the workload of **Proof of Work**, it is proved that the "
 "accounting method of PoW does not require equipment competition or power "
-"consumption, but writes the ratio of :ref:`voken` to network traffic flow "
+"consumption, but writes the ratio of :ref:`wesion` to network traffic flow "
 "resource service as a constant definition in the underlying code."
 msgstr ""
 "相比于 **Proof of Work 工作量证明 PoW** 的记账方式，PoT 并不需要装备竞赛，也不比拼电力消耗，而是在底层代码中将 "
-":ref:`voken` 与流量资源服务的比例写为常量定义。"
+":ref:`wesion` 与流量资源服务的比例写为常量定义。"
 
 #: ../../whitepaper/application_description_and_economic_model.rst:340
-msgid "Voken -- Unique token in the Vision Network ecosystem"
-msgstr "流量币 Voken —— 生态系统中的唯一通证"
+msgid "wesion -- Unique token in the wesion Network ecosystem"
+msgstr "流量币 wesion —— 生态系统中的唯一通证"
 
 #: ../../whitepaper/application_description_and_economic_model.rst:342
 msgid ""
-"``Voken`` is the unique token in the Vision Network ecosystem, which uses "
+"``wesion`` is the unique token in the wesion Network ecosystem, which uses "
 "**Proof of Traffic** consensus mechanism. It is the native asset on the "
 "vnCHAIN."
 msgstr ""
-"``Voken`` 是 Vision Network 远景网络生态系统中的唯一通证，采用 **Proof of Traffic 流量共识** ，是 "
+"``wesion`` 是 wesion Network 远景网络生态系统中的唯一通证，采用 **Proof of Traffic 流量共识** ，是 "
 "vnCHAIN 区块链上的原生资产，也可称之为流量币。"
 
 #: ../../whitepaper/application_description_and_economic_model.rst:345
 msgid ""
-"At the beginning of the project, :ref:`voken` will be strictly based on the "
+"At the beginning of the project, :ref:`wesion` will be strictly based on the "
 "ERC20 token standard, it is created on the Ethereum network. After the "
 "vnCHAIN main network is officially installed and stabilized, the image will "
 "be migrated through signature verification."
 msgstr ""
-"项目初期， :ref:`voken` 将严格基于以太网络 Ethereum 的 ERC20 代币标准，使用以太坊的智能合约发行，待 vnCHAIN "
+"项目初期， :ref:`wesion` 将严格基于以太网络 Ethereum 的 ERC20 代币标准，使用以太坊的智能合约发行，待 vnCHAIN "
 "主网正式上线稳定后再通过签名验证的方式进行映射迁移。"
 
 #: ../../whitepaper/application_description_and_economic_model.rst:354
-msgid "1 Voken = 100GB client traffic flow"
-msgstr "1 Voken = 100GB 用户端流量"
+msgid "1 wesion = 100GB client traffic flow"
+msgstr "1 wesion = 100GB 用户端流量"
 
 #: ../../whitepaper/application_description_and_economic_model.rst:356
 msgid ""
-"In the underlying code, we defined per unit of ``Voken`` as the client "
-"traffic of 100GBytes in the Vision Network, that is: **1 Voken = 100GB "
+"In the underlying code, we defined per unit of ``wesion`` as the client "
+"traffic of 100GBytes in the wesion Network, that is: **1 wesion = 100GB "
 "client traffic flow.**"
 msgstr ""
-"我们在底层代码中定义了每 1 单位 ``Voken`` 对应的权益为 Vision Network 中 100GBytes 的用户端流量，即 **1 "
-"Voken = 100 GB 用户端流量**"
+"我们在底层代码中定义了每 1 单位 ``wesion`` 对应的权益为 wesion Network 中 100GBytes 的用户端流量，即 **1 "
+"wesion = 100 GB 用户端流量**"
 
 #: ../../whitepaper/application_description_and_economic_model.rst:363
 msgid "PoT vs. PoW"
@@ -824,15 +824,15 @@ msgstr ""
 
 #: ../../whitepaper/application_description_and_economic_model.rst:396
 msgid ""
-"The Vision Network pioneered the definition of the **Proof of Traffic** "
-"consensus mechanism, the VISION node has only a very low performance "
+"The wesion Network pioneered the definition of the **Proof of Traffic** "
+"consensus mechanism, the wesion node has only a very low performance "
 "requirement for the device, rather than a more meaningful power race. A "
 "Raspberry Pi (see attached, only consumes 1 degree of electric power per "
 "week) which priced $35, is enough to meet the hardware requirements of a "
 "node, and higher computing performance will not bring about a linear "
 "increase in revenue."
 msgstr ""
-"Vision Network 首创定义了 PoT 流量共识，相对于没有更多意义的算力竞赛，vnet 节点对设备只有极低的性能需求，一个 35 "
+"wesion Network 首创定义了 PoT 流量共识，相对于没有更多意义的算力竞赛，vnet 节点对设备只有极低的性能需求，一个 35 "
 "美金的树莓派（见附，每周仅耗电 1 度左右）即足够满足节点的运行需求，更高的计算性能并不会带来收益的线性增加。"
 
 #: ../../whitepaper/application_description_and_economic_model.rst:403
@@ -840,13 +840,13 @@ msgid ""
 "In the age of the Internet, bandwidth and traffic are **clearly valued and "
 "easily measurable resources**. Quantifying the traffic services provided by "
 "nodes as universal equivalents that are more **currency means** not only a "
-"solid value base but also Voken’s dollar price is more stable, and can "
+"solid value base but also wesion’s dollar price is more stable, and can "
 "effectively avoid the news pricing, PR pricing, emotional pricing. And on "
 "the other way, it effectively avoids unrestrained price speculation at the "
 "same time."
 msgstr ""
 "在互联网时代，带宽和流量是“价值明确且容易计量”的资源，将节点提供的流量服务定量地视为更有“货币”意义的一般等价物，不仅有扎实的价值基础，同时也能使 "
-"Voken 的法币标价更稳定，还能有效避免此前常见的数字货币被“新闻定价”、“公关定价”、“情绪定价”或无节制的恶意炒作。"
+"wesion 的法币标价更稳定，还能有效避免此前常见的数字货币被“新闻定价”、“公关定价”、“情绪定价”或无节制的恶意炒作。"
 
 #: ../../whitepaper/application_description_and_economic_model.rst:415
 msgid "Raspberry Pi:"
@@ -894,9 +894,9 @@ msgstr ""
 
 #: ../../whitepaper/application_description_and_economic_model.rst:438
 msgid ""
-"Therefore, 100 GB client traffic flow, anchored to 1 Voken, also coincides "
+"Therefore, 100 GB client traffic flow, anchored to 1 wesion, also coincides "
 "with the actual intrinsic use value."
-msgstr "所以，100GB 的用户端流量，锚定为 1 Voken ，也恰好符合实际的内在使用价值。"
+msgstr "所以，100GB 的用户端流量，锚定为 1 wesion ，也恰好符合实际的内在使用价值。"
 
 #: ../../whitepaper/application_description_and_economic_model.rst:444
 msgid "AWS Amazon Web Services:"
@@ -924,22 +924,22 @@ msgstr "`GCP CDN Pricing`_"
 
 #: ../../whitepaper/application_description_and_economic_model.rst:458
 msgid ""
-"The Voken dollar price should increase to the internal value gradually and "
+"The wesion dollar price should increase to the internal value gradually and "
 "be relatively stable"
-msgstr "Voken 法币价格应逐渐回归且相对稳定"
+msgstr "wesion 法币价格应逐渐回归且相对稳定"
 
 #: ../../whitepaper/application_description_and_economic_model.rst:460
 msgid ""
 "We believe that the legal currency will not disappear in the short term, and"
 " that long-standing habits will allow more people to use the fiat currency "
-"to price products or services. At the same time, we expect that the Voken "
+"to price products or services. At the same time, we expect that the wesion "
 "value scale after ecological maturity is relatively stable (that is, the "
-"legal currency price is relatively stable), and the basic setting of 1 Voken"
-" = 100 GB can ensure that the market circulation price of Voken gradually "
+"legal currency price is relatively stable), and the basic setting of 1 wesion"
+" = 100 GB can ensure that the market circulation price of wesion gradually "
 "matures with the ecological value in practical use value."
 msgstr ""
-"我们认为短期内法定货币并不会消失，而长久的习惯也让更多人习以为常地以法定货币来为产品或服务标价。同时，我们期望生态成熟后的 Voken "
-"价值尺度相对稳定（即法币标价相对稳定），1 Voken = 100 GB 的基础设定可以在实际使用价值上保证 Voken "
+"我们认为短期内法定货币并不会消失，而长久的习惯也让更多人习以为常地以法定货币来为产品或服务标价。同时，我们期望生态成熟后的 wesion "
+"价值尺度相对稳定（即法币标价相对稳定），1 wesion = 100 GB 的基础设定可以在实际使用价值上保证 wesion "
 "的市场流通价格随着生态的日趋成熟而逐渐回归。"
 
 #: ../../whitepaper/application_description_and_economic_model.rst:473

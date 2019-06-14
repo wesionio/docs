@@ -16,7 +16,7 @@ As a **BRIEF SUMMARY**:
    ``Gas limit`` is the maximum number of gas used
    to manually set up an Ethereum transaction.
 
-   In most contract transactions related to **Vision Network**,
+   In most contract transactions related to **wesion Network**,
    we recommend setting ``gas limit`` to ``3,000,000`` uniformly.
    Gas will not be wasted,
    the actual miner fee will only be calculated on demand,

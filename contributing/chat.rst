@@ -13,13 +13,13 @@ You can click a link or copy it to the Telegram client to open it:
 
 Telegram Groups:
 
-- English: https://t.me/voken100g
-- Chinese: https://t.me/vokenCN
+- English: https://t.me/wesion100g
+- Chinese: https://t.me/wesionCN
 
 
 Telegram News Channel:
 
-- https://t.me/vokenNews
+- https://t.me/wesionNews
 
 
 Telegram Apps:

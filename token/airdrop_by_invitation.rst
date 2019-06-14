@@ -1,15 +1,15 @@
 .. _airdrop-by-invitation:
 
-Vokens Airdrop by invitation (Canceled)
+wesions Airdrop by invitation (Canceled)
 =======================================
 
 Planned amount:
-   50 Million Vokens
+   50 Million wesions
 
    Will be used in other forms of airdrops.
 
 
 ------
 
-Turn to learn about :ref:`voken_sale`.
+Turn to learn about :ref:`wesion_sale`.
 

@@ -1,6 +1,6 @@
-.. _guide_for_read_voken_sale_contract:
+.. _guide_for_read_wesion_sale_contract:
 
-How to read the Voken Public-Sale Contract?
+How to read the wesion Public-Sale Contract?
 ===========================================
 
 The screenshots and data in this page are from the Ethereum kovan test network
@@ -19,10 +19,10 @@ Status and data
 Main status - ``1. status``
 ___________________________
 
-.. image:: /_static/contract/voken_sale_read_01_status.png
+.. image:: /_static/contract/wesion_sale_read_01_status.png
    :width: 80 %
    :align: center
-   :alt: voken_sale_read_01_status.png
+   :alt: wesion_sale_read_01_status.png
 
 Let's focus on the values:
 
@@ -31,15 +31,15 @@ Let's focus on the values:
    auditEtherPrice       |uint256 :  170000000
    stage                 |uint16 :   81
    season                |uint16 :   1
-   vokenUsdPrice         |uint256 :  1810
+   wesionUsdPrice         |uint256 :  1810
    currentTopSalesRatio  |uint256 :  15067500
    txs                   |uint256 :  4
-   vokenTxs              |uint256 :  82
-   vokenBonusTxs         |uint256 :  3
-   vokenWhitelistTxs     |uint256 :  4
-   vokenIssued           |uint256 :  8193922651933
-   vokenBonus            |uint256 :  810000000000
-   vokenWhitelist        |uint256 :  9003922651933
+   wesionTxs              |uint256 :  82
+   wesionBonusTxs         |uint256 :  3
+   wesionWhitelistTxs     |uint256 :  4
+   wesionIssued           |uint256 :  8193922651933
+   wesionBonus            |uint256 :  810000000000
+   wesionWhitelist        |uint256 :  9003922651933
 
 
 auditEtherPrice
@@ -57,10 +57,10 @@ season
 
    ``1`` means: It's in **Season #1**.
 
-vokenUsdPrice
-   Current Voken price, in USD, with 6 decimals.
+wesionUsdPrice
+   Current wesion price, in USD, with 6 decimals.
 
-   ``1810`` means: Current Voken price is **$ 0.001810 USD** .
+   ``1810`` means: Current wesion price is **$ 0.001810 USD** .
 
 currentTopSalesRatio
    Current Top-Sales rewards ratio, with 8 decimals.
@@ -70,49 +70,49 @@ currentTopSalesRatio
    It is calculated by `Stage number`, if the Public-Sale goes into next stage, ratio increases.
 
 txs
-   Transactions amount in this Voken Public-Sale.
+   Transactions amount in this wesion Public-Sale.
 
-   ``4`` means: There are **4 transactions** since the Voken Public-Sale started.
+   ``4`` means: There are **4 transactions** since the wesion Public-Sale started.
 
-vokenTxs
-   Voken transactions amount.
+wesionTxs
+   wesion transactions amount.
 
-   ``82`` means: There are **82 transactions** of Vokens finished already.
+   ``82`` means: There are **82 transactions** of wesions finished already.
 
-vokenBonusTxs
-   Voken bonus transactions amount.
+wesionBonusTxs
+   wesion bonus transactions amount.
 
-   ``3`` means: There are **3 transaction** of Voken bonus finished already.
+   ``3`` means: There are **3 transaction** of wesion bonus finished already.
 
-vokenWhitelistTxs
-   Voken whitelist transactions amount.
+wesionWhitelistTxs
+   wesion whitelist transactions amount.
 
-   ``4`` means: There are **4 transactions** of Voken whitelist finished already.
+   ``4`` means: There are **4 transactions** of wesion whitelist finished already.
 
-vokenIssued
-   Voken issued amount transferred already, with 6 decimals.
+wesionIssued
+   wesion issued amount transferred already, with 6 decimals.
 
-   ``8193922651933`` is **8,193,922.651933 Vokens**.
+   ``8193922651933`` is **8,193,922.651933 wesions**.
 
-vokenBonus
-   Voken bonus amount transferred already.
+wesionBonus
+   wesion bonus amount transferred already.
 
-   ``810000000000`` is **810,000.000000 Vokens**.
+   ``810000000000`` is **810,000.000000 wesions**.
 
-vokenWhitelist
-   Voken whitelist amount transferred already.
+wesionWhitelist
+   wesion whitelist amount transferred already.
 
-   ``9003922651933`` is **9,003,922.651933 Vokens**.
+   ``9003922651933`` is **9,003,922.651933 wesions**.
 
 
 
 Sum of the main data - ``6. sum``
 _________________________________
 
-.. image:: /_static/contract/voken_sale_read_06_sum.png
+.. image:: /_static/contract/wesion_sale_read_06_sum.png
    :width: 80 %
    :align: center
-   :alt: voken_sale_read_06_sum.png
+   :alt: wesion_sale_read_06_sum.png
 
 Let's focus on the values:
 
@@ -146,7 +146,7 @@ weiTopSales
    ``10180962911764705838`` is **10.180962911764705838 ETH**.
 
 weiTeam
-   Vision.Network project team received.
+   wesion.Network project team received.
 
    ``33820000000000000000`` is **33.82 ETH**.
 
@@ -171,52 +171,52 @@ weiPendingRemain
 Status of a specific stage - ``3. stageStatus``
 _______________________________________________
 
-.. image:: /_static/contract/voken_sale_read_03_stage_status0.png
+.. image:: /_static/contract/wesion_sale_read_03_stage_status0.png
    :width: 60 %
    :align: center
-   :alt: voken_sale_read_03_stage_status0.png
+   :alt: wesion_sale_read_03_stage_status0.png
 
 Enter a specific stage number,
 and press `Query`, you will get a response:
 
-.. image:: /_static/contract/voken_sale_read_03_stage_status1.png
+.. image:: /_static/contract/wesion_sale_read_03_stage_status1.png
    :width: 80 %
    :align: center
-   :alt: voken_sale_read_03_stage_status1.png
+   :alt: wesion_sale_read_03_stage_status1.png
 
 For example, `Stage #81`:
 
 .. code-block:: text
 
-   vokenUsdPrice     uint256 :  1810
-   vokenCap          uint256 :  100000000000
-   vokenOnSale       uint256 :  6077348067
-   vokenSold         uint256 :  93922651933
+   wesionUsdPrice     uint256 :  1810
+   wesionCap          uint256 :  100000000000
+   wesionOnSale       uint256 :  6077348067
+   wesionSold         uint256 :  93922651933
    usdCap            uint256 :  181000000
    usdOnSale         uint256 :  11000000
    usdSold           uint256 :  170000000
    weiTopSalesRatio  uint256 :  15067500
 
 
-vokenUsdPrice
-   Voken price of the stage, in USD, with 6 decimals.
+wesionUsdPrice
+   wesion price of the stage, in USD, with 6 decimals.
 
    ``1810`` is **$ 0.001810 USD**.
 
-vokenCap
-   Voken amount cap of the stage, with 6 decimals.
+wesionCap
+   wesion amount cap of the stage, with 6 decimals.
 
-   ``100000000000`` is **100,000.000000 Vokens**.
+   ``100000000000`` is **100,000.000000 wesions**.
 
-vokenOnSale
-   Voken on-sale of the stage, with 6 decimals.
+wesionOnSale
+   wesion on-sale of the stage, with 6 decimals.
 
-   ``6077348067`` is **6,077.348067 Vokens**.
+   ``6077348067`` is **6,077.348067 wesions**.
 
-vokenSold
-   Voken sold of the stage, with 6 decimals.
+wesionSold
+   wesion sold of the stage, with 6 decimals.
 
-   ``93922651933`` is **93,922.651933 Vokens**.
+   ``93922651933`` is **93,922.651933 wesions**.
 
 usdCap
    USD amount cap of the stage, with 6 decimals.
@@ -243,18 +243,18 @@ weiTopSalesRatio
 Top-Sales rewards of a specific season - ``11. seasonTopSalesRewards``
 ______________________________________________________________________
 
-.. image:: /_static/contract/voken_sale_read_11_season_top_sales_rewards0.png
+.. image:: /_static/contract/wesion_sale_read_11_season_top_sales_rewards0.png
    :width: 60 %
    :align: center
-   :alt: voken_sale_read_11_season_top_sales_rewards0.png
+   :alt: wesion_sale_read_11_season_top_sales_rewards0.png
 
 Enter a specific season number,
 and press `Query`, you will get a response:
 
-.. image:: /_static/contract/voken_sale_read_11_season_top_sales_rewards1.png
+.. image:: /_static/contract/wesion_sale_read_11_season_top_sales_rewards1.png
    :width: 80 %
    :align: center
-   :alt: voken_sale_read_11_season_top_sales_rewards1.png
+   :alt: wesion_sale_read_11_season_top_sales_rewards1.png
 
 For example, `Season #1`:
 
@@ -299,44 +299,44 @@ Query data which may relate to you
 Query an account ``13. accountQuery``
 _____________________________________
 
-.. image:: /_static/contract/voken_sale_read_13_account_query0.png
+.. image:: /_static/contract/wesion_sale_read_13_account_query0.png
    :width: 60 %
    :align: center
-   :alt: voken_sale_read_13_account_query0.png
+   :alt: wesion_sale_read_13_account_query0.png
 
 Enter a specific ETH wallet address,
 and press `Query`, you will get a response:
 
-.. image:: /_static/contract/voken_sale_read_13_account_query1.png
+.. image:: /_static/contract/wesion_sale_read_13_account_query1.png
    :width: 80 %
    :align: center
-   :alt: voken_sale_read_13_account_query1.png
+   :alt: wesion_sale_read_13_account_query1.png
 
-For example, query an address of `0x02eEe50...` in the entire :ref:`voken_sale`:
+For example, query an address of `0x02eEe50...` in the entire :ref:`wesion_sale`:
 
 .. code-block:: text
 
-   vokenIssued          uint256 :  913930751207
-   vokenBonus           uint256 :  91393075120
-   vokenWhitelisted     uint256 :  1005323826327
+   wesionIssued          uint256 :  913930751207
+   wesionBonus           uint256 :  91393075120
+   wesionWhitelisted     uint256 :  1005323826327
    weiPurchased         uint256 :  10000000000000000000
    weiReferralRewarded  uint256 :  21296117647058823526
 
 
-vokenIssued
-   Voken issued amount, with 6 decimals.
+wesionIssued
+   wesion issued amount, with 6 decimals.
 
-   ``913930751207`` is **913,930.751207 Vokens**.
+   ``913930751207`` is **913,930.751207 wesions**.
 
-vokenBonus
-   Voken bonus amount, with 6 decimals.
+wesionBonus
+   wesion bonus amount, with 6 decimals.
 
-   ``91393075120`` is **91,393.075120 Vokens**.
+   ``91393075120`` is **91,393.075120 wesions**.
 
-vokenWhitelisted
-   Voken whitelist amount, with 6 decimals.
+wesionWhitelisted
+   wesion whitelist amount, with 6 decimals.
 
-   ``1005323826327`` is **1,005,323.826327 Vokens**.
+   ``1005323826327`` is **1,005,323.826327 wesions**.
 
 weiPurchased
    Amount of ETH purchased, with 18 decimals.

@@ -82,17 +82,17 @@ Also, for security reasons, enter it, do not paste.
    :alt: metamask_import_wallet.gif
 
 
-Show Voken balance of your wallet
+Show wesion balance of your wallet
 ---------------------------------
 
-Copy the address of :ref:`voken_contract`,
+Copy the address of :ref:`wesion_contract`,
 it is ``0x82070415FEe803f94Ce5617Be1878503e58F0a6a``,
 and use ``Add Token``.
 
-.. image:: /_static/guide/metamask_add_voken.gif
+.. image:: /_static/guide/metamask_add_wesion.gif
    :align: center
    :width: 90 %
-   :alt: metamask_add_voken.gif
+   :alt: metamask_add_wesion.gif
 
 
 Interact with Ethereum Contract

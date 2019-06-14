@@ -1,4 +1,4 @@
-Voken and distribution plan
+wesion and distribution plan
 ===========================
 
 Use it, invest it, not hype it
@@ -7,15 +7,15 @@ Use it, invest it, not hype it
 This is also our **blockchain technology application** value philosophy.
 
 We are building an increasingly mature system,
-in which :ref:`voken` will be the only measure of value and means of payment
+in which :ref:`wesion` will be the only measure of value and means of payment
 in such a sustainable and healthy environment.
-It is clear that the basic design of 1 Voken = 100GB
+It is clear that the basic design of 1 wesion = 100GB
 after ecological maturity will ensure that
-the price of Voken is not destined to deviate too much
+the price of wesion is not destined to deviate too much
 from the anchoring of its actual use value.
-We expect users with real demands to buy Vokens through exchanges
+We expect users with real demands to buy wesions through exchanges
 or other channels and use it for appropriate network services.
-Of course, the value logic of Voken is so clear that proper investment is also a good choice.
+Of course, the value logic of wesion is so clear that proper investment is also a good choice.
 
 
 Total 35 billion, absolute majority amount will be handed over to the users
@@ -24,12 +24,12 @@ Total 35 billion, absolute majority amount will be handed over to the users
 The team and the early investors held only 25.47% of the total,
 and most of them are freezed.
 
-74.53% of the Vokens will ultimately be held by users.
+74.53% of the wesions will ultimately be held by users.
 
 
 .. _distribution_plan:
 
-Voken Distribution plan
+wesion Distribution plan
 -----------------------
 
 Team fund 12%
@@ -43,7 +43,7 @@ Team fund 12%
 Early Investors 13.47%
    By :ref:`early_investors_fund_contract`.
 
-   - 3.5 billion Vokens are freezed for 2.5 years.
+   - 3.5 billion wesions are freezed for 2.5 years.
    - Till ``2020.06.30 23:59:59 UTC``.
 
 
@@ -52,18 +52,18 @@ Community 12%
 
    - 50% freezed for 3.5 years.
    - Till ``2021.06.30 23:59:59 UTC``.
-   - Release 0.5% per :ref:`voken_sale` season, for another 50%.
+   - Release 0.5% per :ref:`wesion_sale` season, for another 50%.
 
 
 Air Drops 2%
-   For ETH holders and promotion before/during the :ref:`voken_sale`:
+   For ETH holders and promotion before/during the :ref:`wesion_sale`:
 
    - :ref:`airdrop_contract`
    - :ref:`airdrop_to_eth_holders_contract`
 
 
 Token Sale 22.54%
-   For :ref:`voken_sale`.
+   For :ref:`wesion_sale`.
 
 
 Miner 15%
@@ -81,7 +81,7 @@ Consumption pool 0.5%
 DAPPs Support Plan 10%
    By :ref:`developers_fund_contract`.
 
-   It is used to enrich Vision Network ecology,
+   It is used to enrich wesion Network ecology,
    foster and encourage developers
    to build more decentralized application services.
 

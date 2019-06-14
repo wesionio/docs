@@ -7,7 +7,7 @@ ETH wallet: imToken on Mobile
 
 imToken [#imToken]_ is an excellent multi-chain digital asset wallet APP
 for iOS and Android,
-supports Voken, Ethereum, Bitcoin, and EOS.
+supports wesion, Ethereum, Bitcoin, and EOS.
 
 
 Installation
@@ -59,7 +59,7 @@ Send ETH
 #TODO
 
 
-Send Voken
+Send wesion
 ----------
 
 #TODO
