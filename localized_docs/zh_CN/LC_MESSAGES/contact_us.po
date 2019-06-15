@@ -83,8 +83,8 @@ msgid "https://t.me/joinchat/J7CUOBIoS0omyjIlE6mL7Q"
 msgstr "https://t.me/joinchat/J7CUOBIoS0omyjIlE6mL7Q"
 
 #: ../../contact_us.rst:46
-msgid "https://t.me/joinchat/J7CUOBIoS0omyjIlE6mL7Q (Chinese Group)"
-msgstr "https://t.me/joinchat/J7CUOBIoS0omyjIlE6mL7Q （中文组）"
+msgid "https://t.me/joinchat/J7CUOBIoS0omyjIlE6mL7Q "
+msgstr "https://t.me/joinchat/J7CUOBIoS0omyjIlE6mL7Q"
 
 #: ../../contact_us.rst:50
 msgid "News Channel"

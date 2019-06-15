@@ -78,8 +78,8 @@ msgid "https://t.me/joinchat/J7CUOBIoS0omyjIlE6mL7Q"
 msgstr "https://t.me/joinchat/J7CUOBIoS0omyjIlE6mL7Q"
 
 #: ../../index.rst:36
-msgid "https://t.me/joinchat/J7CUOBIoS0omyjIlE6mL7Q (Chinese Group)"
-msgstr "https://t.me/joinchat/J7CUOBIoS0omyjIlE6mL7Q （中文组）"
+msgid "https://t.me/joinchat/J7CUOBIoS0omyjIlE6mL7Q "
+msgstr "https://t.me/joinchat/J7CUOBIoS0omyjIlE6mL7Q "
 
 #: ../../index.rst:40
 msgid "Telegram News Channel"

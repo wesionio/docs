@@ -42,7 +42,7 @@ Telegram
 
 Group
    - https://t.me/joinchat/J7CUOBIoS0omyjIlE6mL7Q
-   - https://t.me/joinchat/J7CUOBIoS0omyjIlE6mL7Q (Chinese Group)
+
 
 News Channel
    - https://t.me/joinchat/J7CUOBIoS0omyjIlE6mL7Q

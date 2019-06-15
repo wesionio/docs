@@ -33,7 +33,7 @@ Welcome to wesion.network!
 
    Telegram Group
       - https://t.me/joinchat/J7CUOBIoS0omyjIlE6mL7Q
-      - https://t.me/joinchat/J7CUOBIoS0omyjIlE6mL7Q (Chinese Group)
+
 
    Telegram News Channel
       - https://t.me/joinchat/J7CUOBIoS0omyjIlE6mL7Q
