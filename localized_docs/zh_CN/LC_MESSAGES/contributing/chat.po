@@ -40,20 +40,20 @@ msgid "Telegram Groups:"
 msgstr "电报群组："
 
 #: ../../contributing/chat.rst:16
-msgid "English: https://t.me/wesion100g"
-msgstr "英文讨论组： https://t.me/wesion100g"
+msgid "English: https://t.me/joinchat/J7CUOBIoS0omyjIlE6mL7Q"
+msgstr "英文讨论组： https://t.me/joinchat/J7CUOBIoS0omyjIlE6mL7Q"
 
 #: ../../contributing/chat.rst:17
-msgid "Chinese: https://t.me/wesionCN"
-msgstr "中文讨论组： https://t.me/wesionCN"
+msgid "Chinese: https://t.me/joinchat/J7CUOBIoS0omyjIlE6mL7Q"
+msgstr "中文讨论组： https://t.me/joinchat/J7CUOBIoS0omyjIlE6mL7Q"
 
 #: ../../contributing/chat.rst:20
 msgid "Telegram News Channel:"
 msgstr "官方电报新闻频道："
 
 #: ../../contributing/chat.rst:22
-msgid "https://t.me/wesionNews"
-msgstr "https://t.me/wesionNews"
+msgid "https://t.me/joinchat/J7CUOBIoS0omyjIlE6mL7Q"
+msgstr "https://t.me/joinchat/J7CUOBIoS0omyjIlE6mL7Q"
 
 #: ../../contributing/chat.rst:25
 msgid "Telegram Apps:"

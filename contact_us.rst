@@ -12,14 +12,13 @@ Official Website
 ----------------
 
 - https://wesion.network/
-- https://wesion.network/zh-cn (Simplified Chinese)
 
 
 |logo_github|
 
 GitHub
 ------
-https://github.com/wesion100g
+https://github.com/wesionio
 
 
 
@@ -30,7 +29,7 @@ https://github.com/wesion100g
 Twitter
 -------
 
-https://twitter.com/wesion100g
+https://twitter.com/WesionNetwork
 
 
 
@@ -42,11 +41,11 @@ Telegram
 --------
 
 Group
-   - https://t.me/wesion100g
-   - https://t.me/wesionCN (Chinese Group)
+   - https://t.me/joinchat/J7CUOBIoS0omyjIlE6mL7Q
+   - https://t.me/joinchat/J7CUOBIoS0omyjIlE6mL7Q (Chinese Group)
 
 News Channel
-   - https://t.me/wesionNews
+   - https://t.me/joinchat/J7CUOBIoS0omyjIlE6mL7Q
 
 
 |logo_doc|
@@ -57,8 +56,6 @@ Documentations
 --------------
 
 - https://wesion.io/
-- https://wesion.io/zh_CN/latest/ (Simplified Chinese)
-
 
 .. |logo_earth| image:: /_static/logos/earth.svg
    :width: 36px

@@ -14,36 +14,36 @@ Welcome to wesion.network!
 
    Official Website
       - https://wesion.network/
-      - https://wesion.network/zh-cn (Simplified Chinese)
+      
 
 
    |logo_github|
 
    GitHub
-      https://github.com/wesion100g
+      https://github.com/wesionio
 
 
    |logo_twitter|
 
    Twitter
-      https://twitter.com/wesion100g
+      https://twitter.com/WesionNetwork
 
 
    |logo_telegram|
 
    Telegram Group
-      - https://t.me/wesion100g
-      - https://t.me/wesionCN (Chinese Group)
+      - https://t.me/joinchat/J7CUOBIoS0omyjIlE6mL7Q
+      - https://t.me/joinchat/J7CUOBIoS0omyjIlE6mL7Q (Chinese Group)
 
    Telegram News Channel
-      - https://t.me/wesionNews
+      - https://t.me/joinchat/J7CUOBIoS0omyjIlE6mL7Q
 
 
    |logo_doc|
 
    Documents
       - https://wesion.io/
-      - https://wesion.io/zh_CN/latest/ (Simplified Chinese)
+
 
 
 :ref:`philosophy`

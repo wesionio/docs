@@ -38,8 +38,8 @@ msgid "https://wesion.network/"
 msgstr "https://wesion.network/"
 
 #: ../../index.rst:17
-msgid "https://wesion.network/zh-cn (Simplified Chinese)"
-msgstr "https://wesion.network/zh-cn （简体中文）"
+msgid "https://wesion.network "
+msgstr "https://wesion.network"
 
 #: ../../index.rst:20
 msgid "|logo_github|"
@@ -50,8 +50,8 @@ msgid "GitHub"
 msgstr "GitHub"
 
 #: ../../index.rst:23
-msgid "https://github.com/wesion100g"
-msgstr "https://github.com/wesion100g"
+msgid "https://github.com/wesionio"
+msgstr "https://github.com/wesionio"
 
 #: ../../index.rst:26
 msgid "|logo_twitter|"
@@ -62,8 +62,8 @@ msgid "Twitter"
 msgstr "Twitter"
 
 #: ../../index.rst:29
-msgid "https://twitter.com/wesion100g"
-msgstr "https://twitter.com/wesion100g"
+msgid "https://twitter.com/WesionNetwork"
+msgstr "https://twitter.com/WesionNetwork"
 
 #: ../../index.rst:32
 msgid "|logo_telegram|"
@@ -74,20 +74,20 @@ msgid "Telegram Group"
 msgstr "电报群组"
 
 #: ../../index.rst:35
-msgid "https://t.me/wesion100g"
-msgstr "https://t.me/wesion100g"
+msgid "https://t.me/joinchat/J7CUOBIoS0omyjIlE6mL7Q"
+msgstr "https://t.me/joinchat/J7CUOBIoS0omyjIlE6mL7Q"
 
 #: ../../index.rst:36
-msgid "https://t.me/wesionCN (Chinese Group)"
-msgstr "https://t.me/wesionCN （中文组）"
+msgid "https://t.me/joinchat/J7CUOBIoS0omyjIlE6mL7Q (Chinese Group)"
+msgstr "https://t.me/joinchat/J7CUOBIoS0omyjIlE6mL7Q （中文组）"
 
 #: ../../index.rst:40
 msgid "Telegram News Channel"
 msgstr "官方电报新闻频道"
 
 #: ../../index.rst:39
-msgid "https://t.me/wesionNews"
-msgstr "https://t.me/wesionNews"
+msgid "https://t.me/joinchat/J7CUOBIoS0omyjIlE6mL7Q"
+msgstr "https://t.me/joinchat/J7CUOBIoS0omyjIlE6mL7Q"
 
 #: ../../index.rst:42
 msgid "|logo_doc|"
@@ -102,8 +102,8 @@ msgid "https://wesion.io/"
 msgstr "https://wesion.io/"
 
 #: ../../index.rst:46
-msgid "https://wesion.io/zh_CN/latest/ (Simplified Chinese)"
-msgstr "https://wesion.io/zh_CN/latest/ （简体中文）"
+msgid "https://wesion.io"
+msgstr "https://wesion.io"
 
 #: ../../index.rst:49
 msgid ":ref:`philosophy`"

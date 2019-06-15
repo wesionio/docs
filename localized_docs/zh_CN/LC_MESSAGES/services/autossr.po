@@ -26,8 +26,8 @@ msgid "AutoSSR: FREE ShadowsocksR"
 msgstr "AutoSSR：免费 ShadowsocksR 服务"
 
 #: ../../services/autossr.rst:6
-msgid "**Github:** https://github.com/wesion100g/AutoSSR"
-msgstr "**Github:** https://github.com/wesion100g/AutoSSR"
+msgid "**Github:** https://github.com/wesionio/AutoSSR"
+msgstr "**Github:** https://github.com/wesionio/AutoSSR"
 
 #: ../../services/autossr.rst:10
 msgid ""

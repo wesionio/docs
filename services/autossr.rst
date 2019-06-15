@@ -3,7 +3,7 @@
 AutoSSR: FREE ShadowsocksR
 ==========================
 
-- **Github:** https://github.com/wesion100g/AutoSSR
+- **Github:** https://github.com/wesionio/AutoSSR
 
 .. NOTE::
 

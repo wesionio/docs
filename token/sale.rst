@@ -15,8 +15,8 @@ Related links:
 - :ref:`guide_for_read_wesion_sale_contract`
 
 
-.. _GNU General Public License v3.0: https://github.com/wesion100g/contracts/blob/master/LICENSE
-.. _github repository: https://github.com/wesion100g/contracts/blob/master/wesionPublicSale.sol
+.. _GNU General Public License v3.0: https://github.com/wesionio/contracts/blob/master/LICENSE
+.. _github repository: https://github.com/wesionio/contracts/blob/master/wesionPublicSale.sol
 .. _etherscan.io: https://etherscan.io/address/0xac873993e43a5af7b39ab4a5a50ce1fbdb7191d3#readContract
 
 

@@ -18,8 +18,8 @@ Hold :ref:`wesion` for Service Nodes, would be used for:
 
 .. _Tx Hash 0xeb13dde2e87fc2ace8980cf90b396c51...: https://etherscan.io/tx/0xeb13dde2e87fc2ace8980cf90b396c510f93c8f634be0acdd8aba7fa04dd03bd
 .. _7576008: https://etherscan.io/tx/0xeb13dde2e87fc2ace8980cf90b396c510f93c8f634be0acdd8aba7fa04dd03bd
-.. _GNU General Public License v3.0: https://github.com/wesion100g/contracts/blob/master/LICENSE
-.. _View contract code on github repository: https://github.com/wesion100g/contracts/blob/master/wesionServiceNodesFund.sol
+.. _GNU General Public License v3.0: https://github.com/wesionio/contracts/blob/master/LICENSE
+.. _View contract code on github repository: https://github.com/wesionio/contracts/blob/master/wesionServiceNodesFund.sol
 .. _View contract on Etherscan.io: https://etherscan.io/address/0xe942e288b625db74c6505846ac8573acd1577df5
 
 .. |logo_github| image:: /_static/logos/github.svg

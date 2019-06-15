@@ -43,19 +43,5 @@ English:
 
 
 
-Simplified Chinese:
 
-.. code-block:: text
-
-   /welcome 欢迎 $name 来到 wesion 中文社区
-
-   *入群礼 100-200 wesion*
-   💵 💵 💵
-   1 wesion = 100GB 客户端流量，在主流机房和云服务商（如：亚马逊云 AWS、谷歌云 GCP 等），100GB 的加速流量资源价值 $8 美金左右。
-   👉 [点击这里领取](https://wesion.io/zh_CN/latest/token/airdrop_via_contract.html)
-
-   更多信息：
-   1. [wesion 公开销售](https://wesion.io/zh_CN/latest/token/sale.html)
-   2. [wesion 转介引荐计划](https://wesion.io/zh_CN/latest/policy/wesion_referral_program.html)
-   3. [注册公开销售白名单](https://wesion.io/zh_CN/latest/guide/register_wesion_sale_whitelist.html)
 

@@ -13,13 +13,13 @@ You can click a link or copy it to the Telegram client to open it:
 
 Telegram Groups:
 
-- English: https://t.me/wesion100g
-- Chinese: https://t.me/wesionCN
+- English: https://t.me/joinchat/J7CUOBIoS0omyjIlE6mL7Q
+- Chinese: https://t.me/joinchat/J7CUOBIoS0omyjIlE6mL7Q
 
 
 Telegram News Channel:
 
-- https://t.me/wesionNews
+- https://t.me/joinchat/J7CUOBIoS0omyjIlE6mL7Q
 
 
 Telegram Apps:

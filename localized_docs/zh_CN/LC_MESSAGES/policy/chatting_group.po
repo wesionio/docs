@@ -69,6 +69,4 @@ msgstr "入群欢迎词"
 msgid "English:"
 msgstr "英文版："
 
-#: ../../policy/chatting_group.rst:45
-msgid "Simplified Chinese:"
-msgstr "简体中文版："
+
